@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Abdul-Baqi in Arabic means servant of the One Who Remains
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Bangladeshi citizen living in Saudi Arabia. I hold a PhD in computer science from Leeds University, UK. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My [thesis](http://etheses.whiterose.ac.uk/4160/) was about [text mining the Quran](http://textminingthequran.com). That means, over years I have accumulated experience and knowledge about topics like: Arabic, Linguistics, Islam, Quran, Machine Learning, Artificial Intelligence, Corpus Linguistics, to name few.
 
-What else do you need?
+Then, I started a job in the field of Business Intelligence, mainly working in the space of SAP Business Warehouse and Business Objects. Recently, I moved into the world of Statistics looking into Macroeconomic datasets and building visualizations trying to explore data and discover interesting insights from tons of seemingly unrelated information. Hence, to the previously mentioned skillsets, please add things like: Data Science, Macroeconomics and Data Visualizations. My favorite tools to play with are languages like Python, R and JavaScript visualization packages. 
 
-### my history
+In my free time I love to read history and contemplate what lessons it can offer to our contemporary times. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+So, in this blog you can encounter posts covering any of the above topics and more.
