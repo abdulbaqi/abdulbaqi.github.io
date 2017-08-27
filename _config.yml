@@ -55,7 +55,7 @@ author:
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
   instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
+  youtube: 'channel/UCkQnwZF93vz68UrYKDWDhzA'   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
   steam: yourname     # eg. daattali
@@ -76,7 +76,7 @@ footer-links-active:
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
+  youtube: true
   spotify: false
   telephone: false
   steam: false
@@ -121,7 +121,8 @@ title-separator: "-"
 timezone: "Asia/Riyadh"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+#permalink: /:year-:month-:day-:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5
 
 kramdown:
