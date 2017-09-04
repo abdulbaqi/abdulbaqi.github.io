@@ -99,10 +99,10 @@ share-links-active:
 disqus: "abdulbaqi-io"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-105394420-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-M62Q5QD"
 
 # Facebook App ID
 # fb_app_id: ""
