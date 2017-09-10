@@ -748,3 +748,12 @@ color: #f1c40f;
 .gist, .gist-file table tr td {
   border: unset;
 }
+
+/* added by  abdul baqi */
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+img + em { display: block; text-align: center; color: #808080;}
