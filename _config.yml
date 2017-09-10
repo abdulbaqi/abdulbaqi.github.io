@@ -42,7 +42,7 @@ avatar: "/img/baqi.png"
 
 # Change all these values or delete the ones you don't want.
 
-  author: 'AbdulBaqi'
+author:
   name: 'AbdulBaqi'
   email: "sharaf.al.islam@gmail.com"
   facebook: 'abdul.baqi.sharaf'  # eg. daattali
