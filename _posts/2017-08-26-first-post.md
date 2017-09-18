@@ -9,5 +9,5 @@ Here is my first post. I am excited to begin what I see a long journey. I am tha
 
 - I registered my domain name (abdulbaqi.io) through Amazon AWS. 
 - Then, I hosted my site through GitHub pages and created CNAME to point to my domain name. 
-- I used Jekyll static blogging techniques to tidy up things and stay stree free while managing the blog. 
+- I used Jekyll static blogging techniques to tidy up things and stay stress free while managing the blog. 
 - [Beautiful Jekyll theme](https://github.com/daattali/beautiful-jekyll) was very helpful to get me started.
