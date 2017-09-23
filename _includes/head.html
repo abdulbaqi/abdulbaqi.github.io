@@ -15,6 +15,10 @@
 
   {% include gtm_head.html %}
 
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
+
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
       {% include ext-css.html css=css %}
@@ -116,5 +120,7 @@
   {% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
+
+  <!-- added by baqi -->
 
 </head>

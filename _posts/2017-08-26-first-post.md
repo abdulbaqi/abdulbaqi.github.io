@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 image: /img/hello_world.jpeg
-tags: [technology, jekyll, website]
+tags: technology jekyll website
 ---
  
 Here is my first post. I am excited to begin what I see a long journey. I am thankful to a number of internet blogging technology out there. If you are curious, here is what I did to arrange for this blog.

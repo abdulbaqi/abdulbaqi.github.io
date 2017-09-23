@@ -5,7 +5,7 @@ subtitle: How Islam ensures rationality in monetary transactions
 bigimg: /img/jail-capitalism.jpg
 image: /img/irrational-consumerism.jpg
 share-img: /img/irrational-consumerism.jpg
-tags: [capitalism, consumerism, islam, prophet, economy, money]
+tags: capitalism consumerism islam prophet economy money
 excerpt: In the heart of today's market capitalism lies the concept of irrational consumerism. Big companies -aided by governments- manufacture irrational decisions by individuals.
 ---
 
