@@ -4,6 +4,7 @@ _site
 .vagrant
 _drafts
 subl
+tag_gen.py
 
 # general
 .DS_Store
