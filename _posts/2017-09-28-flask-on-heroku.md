@@ -124,11 +124,11 @@ Lines 41 - 45 are technical stuff for rendering a `png` image into an `html` pag
 
 ## Heroku is not nonsense 
 
-The founder of Heroku invented this Japanese theme name by merging *heroic* and *haiku*. This nonsensical meaningless work after all proved to be very useful for web developers. 
+The founder of Heroku invented this Japanese theme name by merging *heroic* and *haiku*. This nonsensical meaningless word after all proved to be very useful for web developers. 
 
 There are many other ways to deploy your flask apps to the world. Amazon has a wide range of free tire offerings. I have wasted some time trying that with no success. The problem is always importing `pandas` package in the remote servers. Please let me know if you were successful to deploy a flask app that has pandas on AWS. I would love to know how to do that. 
 
-[Somebody](https://gist.github.com/nicolashery/3680445) pointed out a nice trick as a workaround similar problem in Heroku. Just have Heroku first install `numpy` and then `pandas` in two separate deployments. 
+[Somebody](https://gist.github.com/nicolashery/3680445) pointed out a nice trick as a workaround to similar problem in Heroku. Just have Heroku first install `numpy` and then `pandas` in two separate deployments. 
 
 Here are the steps for a typical Heroku setup:
 
