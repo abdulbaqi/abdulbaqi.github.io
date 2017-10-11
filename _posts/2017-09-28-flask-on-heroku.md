@@ -34,7 +34,30 @@ The above link should bring me the following image
 
 So, how to do it?
 
-Here I do not intend to provide a tutorial on flask. For that you may visit the famous [mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel, or set of nice [youtube](https://www.youtube.com/watch?v=WfpFUmV1d0w) tutorial by Michael Herman. Here I only display my `app.py` file. 
+Here I do not intend to provide a tutorial on flask. For that you may visit the famous [mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel, or set of nice [youtube](https://www.youtube.com/watch?v=WfpFUmV1d0w) tutorial by Michael Herman. 
+
+Here is a rough sketch of the typical steps:
+
+``` linux
+# created the intended directory
+mkdir indicators
+cd indicators
+
+#create virtual environment named indicators and install flask
+conda create -n indicators flask
+
+#activate the environment
+source activate indicators
+
+# create the application program
+touch app.py
+
+# after you populate the app.py run the program and enjoy the output in browser
+
+python app.py
+```
+
+Here is my `app.py` file. 
 
 {% highlight python linenos=table %}
 from flask import Flask, render_template, make_response
