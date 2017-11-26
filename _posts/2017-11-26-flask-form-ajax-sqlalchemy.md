@@ -172,7 +172,7 @@ $('form').on('submit', function(e){
 			type: 'POST',
 			url : '/process'
 		})
-		.done(function(data){
+		.done(function(data1){
 			if (data.error){
 				$('#result').text(data.error).show();
 			}
