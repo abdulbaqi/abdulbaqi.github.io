@@ -230,6 +230,34 @@ app.get('/logout', function(req,res){
 });
 ```
 
+## Dynamically show/hide links
+
+Final bit is to dynamically adjust the links in the header of your project. So if a user is already logged in welcome him and say 'Welcome Abdulbaqi' and show a 'logout' link, and if not show both login and sign up links.
+
+The step is to create another middle ware before any route as follows.
+
+```javascript
+app.use(function(req,res,next){
+    res.locals.currentUser = req.user;
+    next();
+}
+```
+
+The above middle ware will pass a variable `currentUser` to all routes, so you can use this variable to create your logic as follows (for example in the header file);
+
+##### header.ejs
+
+```html
+{%raw%}<% if(!currentUser) {%>
+        <li><a href="/login">Login </a></li>
+        <li><a href="/register">Sign Up</a></li>
+      <% } else { %>
+        <li><a href="#"> Welcome <%=currentUser.username%></a></li>
+        <li><a href="/logout">Logout</a></li>
+      <% } %>
+}{%endraw%}
+```
+
 ## Conclusion
 
 It would be a hell of a lifetime if we opted to build authentication from scratch. With the above skeleton you can plugin this solution to any express solution. 
