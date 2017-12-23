@@ -9,7 +9,7 @@ tags: nodejs express mongodb authentication security
 excerpt: 
 ---
 
-In a [previous]({% post_url 2017-12-18-nodejs %}) post, I took you into a deep dive to create a RESTful nodejs express app. One component which was missing in the user authentication function. In this post, I would like to build a minimalist app for user authentication sitting on the shoulder of some ready-made express modules.
+In a [previous]({% post_url 2017-12-18-nodejs %}) post, I took you into a deep dive to create a RESTful nodejs express app. One component which was missing is the user authentication function. In this post, I would like to build a minimalist app for user authentication sitting on the shoulder of some ready-made express modules.
 
 ## Modules to Use
 
