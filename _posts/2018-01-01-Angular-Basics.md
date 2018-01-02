@@ -238,7 +238,7 @@ I had to use `ng-container` for the `*ngFor` directive and use the `*ngIf="row['
 Use the following build command to create a distribution version of the app.
 
 ```
-ng build --prod --aot
+ng build --prod --aot --base-href="/toc/"
 ```
 Then take the content of the `/dist` folder and place it in your desired folder in the s3 bucket. For me I created a folder called `/toc` in my bucket called `textminingthequran.com`. All, I have to do now is to sync my content (or copy this folder recursively to my s3) through `awscli`.
 
