@@ -6,7 +6,7 @@ bigimg: /img/think.jpg
 image: /img/bulb-square.jpg
 share-img: /img/bulb-square.jpg
 tags: language quran chomsky
-excerpt: 
+youtubeId: 3DBDUlDA3t0
 ---
 
 Noam Chomsky revolutionized linguistics in the mid-twentieths century. His views on the nature of language and its acquisition brought a paradigm shift to linguistics akin to the shift Copernican brought at his time on the nature and position of earth, sun and other planets. 
@@ -26,5 +26,9 @@ Skipping over detailed maze of evolution complexities, here I would like to list
 * These hierarchical structure then interfaces with two other systems: first, an internal cognitive system for thinking, planning and etc, and the second is a sensor-motor system to externalize to spoken, visual and auditory organs. 
 * This internal hierarchical structure in agnostic in terms of word order and other features that are specific to a certain world language. These variations are related to senso-motor system.
 * Animals and songbirds have senso-motor system and might have thinking system but they lack this novel CPU that can generate endless novel statements.
+
+For details watch the following lecture by Chomsky. 
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 In later posts I will benchmark these axioms against Quranic verses in search for compliance or otherwise. 
