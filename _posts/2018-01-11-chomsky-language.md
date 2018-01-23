@@ -31,4 +31,4 @@ For details watch the following lecture by Chomsky.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-In later posts I will benchmark these axioms against Quranic verses in search for compliance or otherwise. 
+In later [posts]({%post_url 2018-01-19-allah-taught-us-language%}) I will benchmark these axioms against Quranic verses in search for compliance or otherwise. 

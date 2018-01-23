@@ -45,3 +45,11 @@ Read verse [16:78](https://quran.com/16/78):
 We can construct quite a good concept of the language faculty in us by combining the verse above with some of the earlier verses. First, Allah has designed in us the capacity to assign names to objects. This is the core computational power of generating languages. Then as we grow up, we do not need to develop this core system, because it is already there and in full function. What we `learn` as we grow is world experience through our interface with the world, i.e., hearing and vision. These 'doors' enable external information to enter into our cognitive system. This system is a beautiful and mysterious capacity of ours, and the interplay between these three systems (i.e., senses, cognitive and language) is the core essence of human being. 
 
 What remain then is exactly what the above verse points out: `perhaps you would be grateful`. Alas, modern man enjoys these faculties, yet at the end attributes these bounties to nature and forgets about a supreme creator. 
+
+## To speak is human
+
+Read verses [51:22-23](https://quran.com/51/22-23) 
+
+>And in the heaven is your provision and whatever you are promised. Then by the Lord of the heaven and earth, indeed, it is truth - just as [sure as] it is that you are speaking.
+
+In this verse, Allah wanted us to believe in an unseen truth, that is that our provision is in the heaven. To convince us further He compared the truthfulness of this unseen truth, with a seen truth that no two human being would disagree: that is our language faculty and the ability to speak. This indeed is a very strong case for promoting language to be a uniquely human faculty and that it is not subject to any doubts. 
