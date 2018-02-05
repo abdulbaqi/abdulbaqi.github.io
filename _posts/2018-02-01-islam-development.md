@@ -27,7 +27,7 @@ Associated with this view are the moral imperatives, altruism and the empathy to
 
 Divine decree and predestination is another central theme whenever we discuss poverty, or for that matters, richness in Islam. Allah distributes provision on earth, which is not correlated with Allah’s satisfaction or anger. So, Allah can given provision to a non-believer and withhold it from a believer. This is well rationalized when we know that what matters is the world hereafter and not the rank and richness of this world. Indeed, the entire world in the view of Allah is less significant that a wing of a mosquito, as mentioned in a *hadith*.
 
-Given the above world view, while a field officer from a Western neo-liberal organization lecture a poor Muslim in rural Bangladesh on virtue of being rich, the poor might laugh and whisper within “but I am already happy in my village”.
+Given the above world view, while a field officer from a Western neo-liberal organization lecture a poor Muslim in rural Bangladesh on virtue of being rich, the poor might laugh and whisper within himself “but I am already happy in my village and beside my mosque”.
 
 Surah Quraish, which is a very small Quranic chapter (no. 116) and almost every Muslim child memorizes it by heart, tells the story of development in less than 20 seconds.
 
@@ -36,7 +36,7 @@ Their accustomed security [in] the caravan of winter and summer -
 Let them worship the Lord of this House,
 Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.
 
-A very clear path to development that goes from `worship of Allah` to the developmental outcome of alleviating `hunger` and granting `peace and security`. Today, a big portion of the subjects of development agenda (i.e., the poor) are in Muslim countries. Millions of these subjects take spirituality very seriously and find in it a source of assurance at difficult times. If the development agenda leverages on this aspect of spirituality while designing these development intervention, then it is a win-win situation. They only problem is the neo-liberal and secular ideologies (sponsored by World Bank, IMF and the like) deliberately renders such potential power as taboo word and never to even speak about. 
+A very clear path to development that goes from `worship of Allah` to the developmental outcome of alleviating `hunger` and granting `peace and security`. Today, a big portion of the subjects of development agenda (i.e., the poor) are in Muslim countries. Millions of these subjects take spirituality very seriously and find in it a source of assurance at difficult times. If the development agenda leverages on this aspect of spirituality while designing these development intervention, then it is a win-win situation. The only problem is the neo-liberal and secular ideologies (sponsored by World Bank, IMF and the like) deliberately renders such potential power as taboo word and never to be spoken about. 
 
 
 
