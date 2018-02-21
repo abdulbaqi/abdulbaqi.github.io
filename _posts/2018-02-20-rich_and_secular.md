@@ -24,3 +24,14 @@ Read for example in Quran [16:97](https://quran.com/16/97) how the religious is 
 ..and read the contrasting picture in [20:124](https://quran.com/20/124) of how the 'secular' is doomed to suffer from miserable life
 
 >And whoever turns away from My remembrance - indeed, he will have a depressed life, and We will gather him on the Day of Resurrection blind."
+
+The rich, once feels satisfied with material life starts to transgress. Read for example [96:6-7](https://quran.com/96)
+
+>No! [But] indeed, man transgresses, Because he sees himself self-sufficient.
+
+Speaking about insecurity, the real threat to security is secularization and getting away from spirituality. Read the following quotes from prophet Ibrahim as mentioned in Quran [6:80-82](https://quran.com/6/80-82)
+
+
+>And his people argued with him [Abraham]. He said, "Do you argue with me concerning Allah while He has guided me? And I fear not what you associate with Him [and will not be harmed] unless my Lord should will something. My Lord encompasses all things in knowledge; then will you not remember?
+And how should I fear what you associate while you do not fear that you have associated with Allah that for which He has not sent down to you any authority? So which of the two parties has more right to security, if you should know?
+They who believe and do not mix their belief with injustice - those will have security, and they are [rightly] guided.
