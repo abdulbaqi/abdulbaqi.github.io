@@ -28,7 +28,7 @@ Read for example, the effect of the Quran on heart and skin in [39:23](https://q
 Or read how when a Bible scholar reads about the Quran and starts to shed tears out of joy and factor X effect. [5:83](https://quran.com/5/83)
 >And when they hear what has been revealed to the Messenger, you see their eyes overflowing with tears because of what they have recognized of the truth. They say, "Our Lord, we have believed, so register us among the witnesses.
 
-Hence, these are not discoveries by Wilson or Maslow. Not being very lucky to get exposed to Quran and Hadith, they had to work hard to find it. How lucky then those amongst us who got the Quran and Hadith, but at the same time and how unlucky if we always let our robot -and not us- who read the Quran and Hadith.
+Hence, these are not discoveries by Wilson or Maslow. Not being very lucky to get exposed to Quran and Hadith, they had to work hard to find it. How lucky then those amongst us who got the Quran and Hadith, but at the same time how unlucky if we always let our robot -and not us- who read the Quran and Hadith.
 
 Speaking about Hadith, a copyrighted and patented term hadith used in this regard is the word *taste of faith* or in Arabic *Ta'am al emaan*. It is narrated in *Muslim* by the uncle of the Prophet Muhammad, *Al-Abbas ibn Abdul Muttalib*, that the Prophet Muhammad -peace be upon him- said:
 
@@ -36,7 +36,7 @@ Speaking about Hadith, a copyrighted and patented term hadith used in this regar
 
 Similarly the word *Sweetness of faith* or in Arabic *Halawat al emaan* can be found in numerous hadiths. For example, narrated by Bukhari, Muslim and others through *Anas ibn Malik*, the Prophet said:
 
-> Whoever has three qualities, he has tasted the sweetness of faith: 1) When Allah and His messenger become more beloved to him than anyone else 2) when he starts to love another person for no reason except for the sake of Allah and 3) when he hates to return to disbelieve (and leave Islam) after he has been saved for it, as he hates to be thrown in fire.
+> Whoever has three qualities, he has tasted the sweetness of faith: 1) When Allah and His messenger become more beloved to him than anyone else 2) when he starts to love another person for no reason except for the sake of Allah and 3) when he hates to return to disbelieve (and leave Islam) after he has been saved from it, as he hates to be thrown in fire.
 
 The above evidences not only speaks about Factor X, it gives much more details on its nature and how to attain them. 
 
