@@ -5,7 +5,7 @@ subtitle: How Abu Bakr prescribed the ingredients of good governance in 50 secon
 bigimg: /img/inequality.jpg
 image: /img/inequality-sq.jpg
 share-img: /img/inequality-sq.jpg
-tags: abu-bark capitalism inequality
+tags: capitalism inequality
 ---
 
 `
