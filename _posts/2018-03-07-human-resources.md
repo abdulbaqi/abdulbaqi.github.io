@@ -3,8 +3,8 @@ layout: post
 title: How to unleash human resources
 subtitle: touches of spirituality on human civilization
 bigimg: /img/think.jpg
-image: /img/ballon-sq.jpg
-share-img: /img/ballon-sq.jpg
+image: /img/bulb-square.jpg
+share-img: /img/bulb-square.jpg
 tags: happiness spirituality
 ---
 Natural resource and human resources; these two are often postulated as the economic pillars for any country. Here I would like to emphasis that human resources is the main pillar and much more important. There could be two countries equal in natural resources, but still one is poor and the other is rich. The reason is the quality of human resource is better in one and not so good in the other. Also, there could be two countries; one rich in natural resources, and the other poor in natural resources, yet we can see the first is poor and the second is rich. Here again the distinguishing factor was not the natural resources, but the quality of human resources. 
