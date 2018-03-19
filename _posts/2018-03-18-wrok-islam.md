@@ -16,6 +16,13 @@ Allah encourages us to travel on the surface of earth in search for provision. A
 
 Such motivations made Muslims explore the earth and float on all seas of the world in order to trade goods as well as preach their religion. Ask the people of Indonesia, Malaysia, the Philippines, China, and even Latin America before Columbus, and they would tell you wonderful stories of those traders. (Contrast this with European plunderers when they reaches those places)
 
+There is no asceticism in Islam. Islam never encourages people to go to jungle and seclude oneself with worshiping and wait for provisions to shower from heaven. 
+
+It happened that people from Yemen used to travel for pilgrimage to Makkah without carrying with them the needed provision for the journey. When they run short of provision, they start to beg others. A verse (197) in Surah Baqarah (2) was then revealed. (see Bukhari on this story)
+
+>And take provisions, but indeed, the best provision is fear of Allah 
+
+
 Islam encourages its adherents to be strong so that they can have positive influence on society. See the following hadith narrated by *Muslim*
 
 >The strong believer is better and more beloved to Allah than a weak believer. However, both are good. Be forwarding looking to what benefits you, and go for it seeking the help of Allah, and never give up. If -at end- things did not go well, then never say "if I did it in different way, it would have been better", rather say "it is a decree from Allah, and He does whatever He wished", for the saying "if I did that way" opens up gates of Satan
