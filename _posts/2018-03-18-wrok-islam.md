@@ -8,7 +8,7 @@ share-img: /img/fishing_net.jpg
 tags: work employment
 ---
 
-Prophet Muhammad -peace be upon him- said in a hadith that the most truthful names are **cultivator** and **thinker**. In this tradition, prophet Muhammad is summing up the progressive and dynamic nature of human being as someone who always thinks, and does jobs. He thinks how to grow plants and feed his wife and children. He starts to observe his surroundings and make discoveries. After long hours of thinking, he starts to put into action some of the fruits of his thinking. Thus, thoughts are translates into actions. 
+Prophet Muhammad -peace be upon him- said in a hadith that the most truthful names are **cultivator** and **thinker**. In this tradition, prophet Muhammad is summing up the progressive and dynamic nature of human being as someone who always thinks, and does jobs. He thinks how to grow plants and feed his wife and children. He starts to observe his surroundings and make discoveries. After long hours of thinking, he starts to put into action some of the fruits of his thinking. Thus, thoughts are translated into actions. 
 
 Allah encourages us to travel on the surface of earth in search for provision. Allah had made the earth a conducive place to search for provisions and make endless discoveries through innovative approaches in order to unearth the hidden treasures. Read for example, Surah 67, verse 15
 
@@ -30,11 +30,11 @@ One leadings characteristics of prophet Muhammad -peace be upon him- is that he:
 
 Weather is another factor that contributes to productivity and work. The best places are in the middle of earth where the weather is moderate between cold and hot, and between too rainy and too dry, and between too much daylight and too little day light. That is the middle east and locations surrounding it. It is no wonder then that Islam started from the **mother of villages** (that is *Makkah*) and Allah knew that people coming from such a place are the most productive and are most suitable among mankind to build a civilization on earth. 
 
-The best time for productivity is in the early hours after sun-rising. It is the time when the mind is fresh and body is ready to yield its best after a good night sleep. Read this hadith narrated by Sakh al-Ghamdi (in books of Tabrani, Ahman, Darmi, Abu-Dawood, Tirmidhi, and al-Bani branded this hadith as Saheed):
+The best time for productivity is in the early hours after sun-rising. It is the time when the mind is fresh and body is ready to yield its best after a good night sleep. Read this hadith narrated by Sakhr al-Ghamdi (in books of Tabrani, Ahmad, Darmi, Abu-Dawood, Tirmidhi, and al-Albani branded this hadith as Saheeh):
 
 > O Allah, bless my Ummah in its early morning times
 
-Islam always reminds people of the overarching responsibility to make progress on this earth and build the civilization. The monetary reward is only a secondary to this primary objective. This fits well with the concept of hereafter. Whenever a person does something good, then his wages is already paid with compounding factors in the world hereafter. Think about this wonderful hadith that is narrated by Ahmad, Bukhari (in his book *al-adab al-mufrad), Abd ibn Humaid and al-Bazzar, by Anas ibn malik, the Prophet peace be upon him said:
+Islam always reminds people of the overarching responsibility to make progress on this earth and build the civilization. The monetary reward is only a secondary to this primary objective. This fits well with the concept of hereafter. Whenever a person does something good, then his wages is already paid with compounding factors in the world hereafter. Think about this wonderful hadith that is narrated by Ahmad, Bukhari (in his book *al-adab al-mufrad*), Abd ibn Humaid and al-Bazzar, by Anas ibn malik, the Prophet peace be upon him said:
 
 > if the doomsday (was about to) start while some of you was holding a baby palm tree, then if it is possible for him to implant it before the doomsday starts then let him do it.
 
@@ -46,7 +46,7 @@ Read another hadith to see how wide the scope of work is in Islam, and observe t
 
 All prophets and messengers of Allah were people of this World, and had worked themselves to earn the money for their wives and kids. Prophet Muhammad worked as shepherd and earned wages in exchange. There is no distinction in Islam -when it comes to work attitude- between priests and laity. Both need to pray and work to earn money as well. 
 
-Professionalism and trustworthiness are the two key qualities that any employers looks for. See how they are highlighted in this verse (in the context of prophet Moses story when the daughter of old man of Madyan request his father to employ Moses) (surah 28 verse 26)
+Professionalism and trustworthiness are the two key qualities that any employer looks for. See how they are highlighted in this verse (in the context of prophet Moses story when the daughter of old man of Madyan request his father to employ Moses) (surah 28 verse 26)
 
 > O my father, hire him. Indeed, the best one you can hire is the strong and the trustworthy.
 
@@ -65,4 +65,4 @@ Another responsibility of employer is to pay wages on time. Here again Islam has
 > Ibn Umar narrated that the Prophet -peace be upon him said-:
 Give the wage to the employer before his sweat dries (narrated by Ibn Majah and authenticated by al-albani)
 
-With such work attitudes, ethics and accountabilities, early Muslims were able to build a civilization that is unparalleled in history. The development we see today in Western societies is a result of adhering to some of these ethics, and the inequalities and injustices we see in the world today is a result of neglecting other Islamic ethics. The utopia is only when Islam in totality is practiced on earth. 
+With such work attitudes, ethics and accountabilities, early Muslims were able to build a civilization that is unparalleled in history. The development we see today in Western societies is a result of adhering to some of these ethics, and the inequalities and injustices we see in the world today is a result of neglecting other Islamic ethics. We can reach utopia only when Islam -in totality- is practiced on earth. 
