@@ -3,8 +3,8 @@ layout: post
 title: Homo Sapiens
 subtitle: Religious vs Atheistic Narrative
 bigimg: /img/cloud-rain.png
-image: /img/hello_world.jpeg
-share-img: /img/hello_world.jpeg
+image: /img/path-sq.jpeg
+share-img: /img/path-sq.jpeg
 tags: evolution
 ---
 
