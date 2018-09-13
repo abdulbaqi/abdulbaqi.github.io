@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moral before Money
+title: Morality before Money
 subtitle: How one hadith gets into the root of today's problem
 bigimg: /img/money.jpg
 image: /img/money-sq.jpg
