@@ -18,7 +18,7 @@ Biologists, however, tend to paint a very dismal picture of the origin of human 
 
 Thus *Yuval Noah Harari* wants us to believe in his much acclaimed bestseller *Sapiens*.
 
-According to our modern biological version, since the first *homo* on earth probably some 3 billion years ago, human gradually got smarter than apes and evolved through ape-like *homo* genus until about 70,000 years back when a very smart species called *homo sapiens* with big brains emerged from Africa and started to scribe a bold signature on this planet.  
+According to our modern biological version, since the first *homo* on earth probably some 6 million years ago, human gradually got smarter than apes and evolved through ape-like *homo* genus until about 70,000 years back when a very smart species called *homo sapiens* with big brains emerged from Africa and started to scribe a bold signature on this planet.  
 
 Comparing apes and human on physical grounds -like brain size, or walking upright- is an insult to the cognitive and intellectual properties they differ from each other. 
 
