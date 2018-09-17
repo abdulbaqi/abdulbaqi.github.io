@@ -62,6 +62,7 @@ author:
   steam: yourname     # eg. daattali
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
+  archive: 'letquranspeak'
 
 # Select which links to show in the footer
 footer-links-active:
@@ -83,6 +84,7 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
+  archive: true
 
 # Select which share links to show in posts
 share-links-active:
