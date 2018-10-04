@@ -114,6 +114,10 @@ I used a `while` loop that continues to wait for input until `q` is pressed.
 
 There are lots of room to improve this code, but I will leave that for you. One natural extension is to move from raw code into a web app using for example `flask` framework, which I might try at some point. 
 
+Besides getting wisdoms from these verses, there could be many other use case for this app. For example, say there is a Quranic memorization competition, then this app can seed the questions. The competitor need to continue from whatever random verse was thrown to him/her. 
+
+Similarly, a genius who claims to memorize sura and verse number can be tested through this app. What other innovative ideas you have? Drop them in the comment below. 
+
 Here is my entire code, try it by pressing the green run button and pray for me!
 
 <iframe height="600px" width="100%" src="https://repl.it/@baqi/Random-Verses-from-the-Quran?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
