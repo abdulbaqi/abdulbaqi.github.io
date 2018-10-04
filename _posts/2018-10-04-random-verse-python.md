@@ -112,7 +112,7 @@ I am using `request.get(url).json()` to get the API data as json file. Then used
 
 I used a `while` loop that continues to wait for input until `q` is pressed. 
 
-There are lots of room to improve this code, but I will leave that for you. One natural extension is to move from raw code into a web app using for example `flask` framework, which I might try at some point. 
+There are lots of room to improve this code, but I will leave that for you. One natural extension is to move from raw code into a web app using for example `flask` framework, which I might try at some point. But, for now [here](https://codepen.io/wahyusr/pen/awGRXo) is a nice `javascript` web app using this same API.
 
 Besides getting wisdoms from these verses, there could be many other use case for this app. For example, say there is a Quranic memorization competition, then this app can seed the questions. The competitor need to continue from whatever random verse was thrown to him/her. 
 
