@@ -110,7 +110,7 @@ sura = json_data['data'][0]['surah']['englishName']+\
 ```
 I am using `request.get(url).json()` to get the API data as json file. Then used the proper dictionary traverse notations to head for the data I wanted. 
 
-I used a `while` loop that continues to wait for input under `q` is pressed. 
+I used a `while` loop that continues to wait for input until `q` is pressed. 
 
 There are lots of room to improve this code, but I will leave that for you. One natural extension is to move from raw code into a web app using for example `flask` framework, which I might try at some point. 
 
