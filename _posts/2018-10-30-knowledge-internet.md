@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seeking knowledge at the age of Internet
+title: Seeking knowledge in the age of Internet
 subtitle: 
 bigimg: /img/book.jpg
 image: /img/book-sq2.jpg
