@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In search for a grand mathematical formula for social sciences
+title: Are Grameen loans women friendly?
 subtitle: 
 bigimg: /img/women-poor.jpg
 image: /img/Yunus.jpg
