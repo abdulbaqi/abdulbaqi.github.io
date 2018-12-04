@@ -21,7 +21,7 @@ The most accurate method to measure the length of Mekki and Madani contents is t
 
 In what follows, is a `python` script that calls the Quran `api` which I used in a [previous](http://abdulbaqi.io/2018/10/04/random-verse-python/) article. 
 
-The API allows retrieving a chapter of the Quran (say chapter 112) by the following link. many variations to get english translations. I used the following option:
+The API allows retrieving a chapter of the Quran (say chapter 112) by the following link. 
 
 ```
 http://api.alquran.cloud/surah/112
