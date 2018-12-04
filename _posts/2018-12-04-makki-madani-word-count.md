@@ -115,4 +115,4 @@ Mekki words: 50451 [61%]
 Madani words: 32372 [39%]
 ```
 
-One final note: The API adopted the view that the first verse of the Quran is affixed with four Arabic words that translates into "In the name of Allah the most Merciful the Most Gracious". If you want to subtract 452 words from the total (i.e., 113 surah which starts with Bismillah, as surah no. 9 does not start with Bismillah).
+One final note: The API adopted the view that the first verse of the Quran is affixed with four Arabic words that translates into "In the name of Allah the most Merciful the Most Gracious". If you want you may subtract 452 words from the total (i.e., 113 surah which starts with Bismillah, as surah no. 9 does not start with Bismillah).
