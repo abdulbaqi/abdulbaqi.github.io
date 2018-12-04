@@ -106,3 +106,13 @@ Here is the `python` listing. Ask me if anything is unclear.
 
 <iframe height="400px" width="100%" src="https://repl.it/@baqi/count-verse-makki-madani?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+When you run the program, it will start posting word counts for each sura sequentially, and at the end will post the following statistics.
+
+```
+Quran has 114 surah among them 86 Meccan Surah, and 28 Madani
+Total words in Quran: 82823
+Mekki words: 50451 [61%]
+Madani words: 32372 [39%]
+```
+
+One final note: The API adopted the view that the first verse of the Quran is affixed with four Arabic words that translates into "In the name of Allah the most Merciful the Most Gracious". If you want to subtract 452 words from the total (i.e., 113 surah which starts with Bismillah, as surah no. 9 does not start with Bismillah).
