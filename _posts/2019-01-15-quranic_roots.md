@@ -8,7 +8,7 @@ share-img: /img/bash.png
 tags: quran linux text
 ---
 
-Linux command line is a powerful and free tool. Using just few commands one can productively do powerful text analysis. In this quick tutorial I will demostrate few of such linux commands.
+Linux command line is a powerful and free tool. Using just few commands one can productively do powerful text analysis. In this quick tutorial I will demonstrate few of such Linux commands.
 
 Any data science task starts with a question. So, what is our question in this exercise? 
 
@@ -41,7 +41,7 @@ We can get some initial information about this file using *word count* command `
 
 This file contains 128,276 lines. The `-l` option of `wc` indicates number of lines.
 
-Let me display first few lines of this file to see what it contains. This can be done by using first `cat` command to list the entire file but instead of displaying this big file, I will `pipe` the results to another command called `head` to display only first 10 lines. This piping business is a very powerful unix tool and we used `|` to do that. 
+Let me display first few lines of this file to see what it contains. This can be done by using first `cat` command to list the entire file but instead of displaying this big file, I will `pipe` the results to another command called `head` to display only first 10 lines. This piping business is a very powerful UNIX tool and we used `|` to do that. 
 
 
 ```python
@@ -71,7 +71,7 @@ We notice that the file contains some copyright block at the beginning and the a
     (1:1:2:1) {ll~ahi PN  STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN
     
 
-So, we know that our file has 128,276 lines of code and 57 lines from top has some copyright notes. Using `tail` I can get a working copy of the file by chopping these few lines from top and display only (128,276 - 57 = 128,219) lines from button and save it into a handy file called `qt`
+So, we know that our file has 128,276 lines of code and 57 lines from top has some copyright notes. Using `tail` I can get a working copy of the file by chopping these few lines from top and display only (128,276 - 57 = 128,219) lines from button and save it into a handy file called `qt` (short for Quranic tags).
 
 
 ```python
@@ -97,7 +97,7 @@ Let us display the top of the new file to make sure things went as intended.
     
 
 
-By looking into this structure, here is what each column means. 
+By looking into this structure, here is a brief on what each column means. 
 
 **first column (1:1:1:1)**
 (Seq No.:sura no.:verse no.:word no. (within that verse):segment no. (within that word))
@@ -108,13 +108,13 @@ This is word form in Buckwalter transliteration as documented in Kais Dukes work
 **Third Column**
 The part-of-speech tagging of this word, see [here](http://corpus.quran.com/documentation/tagset.jsp) for a listing of these tags.
 
-**Fourth column** contains a number of morphological features seperated by `|`. The one concerning us in this exercise is the feature prefixed by `ROOT:`. See this [documentation](http://corpus.quran.com/documentation/morphologicalfeatures.jsp) for more details of Qruanic morphological freatures.
+**Fourth column** contains a number of morphological features seperated by `|`. The one concerning us in this exercise is the feature prefixed by `ROOT:`. See this [documentation](http://corpus.quran.com/documentation/morphologicalfeatures.jsp) for more details of Qruanic morphological features.
 
 # `cut` and `sed`
 
-`cut` is cool. It is a handy swiss knife at the hand of a data scientist. It splits the line by a delimeter with option `-d` and then pick whatever coloumn you specify by option `f`. In our case, the fields are seperated by a tab which for which I need to specify `-d'\t\'` as the delimeter, this will throw an error, because `-d` accepts only one character as delimeter but `\t` is two characters. (I found a solution to use `-d$'\t'` but for some reason the Jupyter notebook is not allowing me to use it). If it were just comma, I would have used `-d','` instead.
+`cut` is cool. It is a handy swiss knife at the hand of a data scientist. It splits the line by a delimiter with option `-d` and then pick whatever column you specify by option `f`. In our case, the fields are separated by a tab for which I need to specify `-d'\t\'` as the delimiter, this however will throw an error, because `-d` accepts only one character as delimiter but `\t` is two characters. (I found a solution to use `-d$'\t'` but for some reason the Jupyter notebook is not allowing me to use it). If it were just comma, I would have used `-d','` instead.
 
-This gives me an opportunity to introduce another giant called `sed`. Among other things, it will find and replace things in our file. Let us use it to replace those tabs with comma, so cut I can used `cut -d','` later. 
+This gives me an opportunity to introduce another giant called `sed`. Among other things, it will find and replace texts in our file. Let us use it to replace those tabs with comma, so later `cut` can use `cut -d','` without any error. 
 
 
 ```python
@@ -151,17 +151,15 @@ Now pipe that with `cut`
     STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN
     
 
-So, above we asked to split the Quranic root files by comma `-d','` and wanted to preserve only the fourth column `-f4`, and here we are showing only the `tail`. 
+So, above we asked to split the Quranic root files by comma `-d','` and wanted to preserve only the fourth column `-f4`, and then we are showing only the `tail`. 
 
 (*a side note: I initially tried `head` but was getting a broken pipe error, because head hurried to show things before it is ready by the process before it, so, I switched to tail to give enough time for `cut` to finish its business*)
 
 # grep
 
-And now the powerful `grep`. I will use it to pick the lines that has the `ROOT:` words. I am using *regular expression* hence the `-E` option and want to output only the captured word and not the entire lines by specifying the `-o` option. The patter I used is as follows:
+And now the powerful `grep`. I will use it to pick the lines that has the `ROOT:` words. I am using *regular expressions* hence the `-E` option and want to output only the captured word and not the entire lines by specifying the `-o` option. The pattern I used is `'ROOT:[^|]*'` which in plain English means: Traverse all lines and return only the lines that has the word ROOT:followed by anything except the character `|`. 
 
-Traverse all lines and return only the lines that has the word ROOT:followed by anything except `|`. 
-
-Regular Expression is a wild beast and worth investing time if you want to analyze text. You can always test using many sites for example [regexr.com](https://regexr.com/)
+Regular Expression is a wild beast and worth investing time if you want to analyze text. You can always test various patterns on-line for example at [regexr.com](https://regexr.com/)
 
 
 ```python
@@ -180,7 +178,7 @@ Regular Expression is a wild beast and worth investing time if you want to analy
     ROOT:nws
 
 
-I want to extract the exact roots after the `ROOT:` prefix, and I can employ a `cut` again on the `:` delimeter and take the second column. (I am sure there are better ways).
+I want to the exact the word that appears after the prefix `ROOT:`. To do this I can employ a `cut` again on the `:` delimiter and take the second column. (I am sure there are better ways though).
 
 
 ```python
@@ -225,7 +223,7 @@ sort | tail
     zyt
 
 
-All `sort` does is to alphabatically sort the list, hence all the repeated roots are stacked. What I wanted is a unique list of those roots. Here comes the `uniq` command.
+All `sort` does is to alphabetically sort the list, hence all the repeated roots are stacked. What I wanted is a unique list of those roots. Here comes the `uniq` command.
 
 # uniq
 
@@ -248,9 +246,9 @@ sort | uniq | tail
     zyt
 
 
-The above gives the uniq list of all roots of the Quran without preserving how many of each roots are there.
+The above gives the unique list of all roots of the Quran without preserving how many of each roots are there.
 
- Let me use `wc` with the `-l` option to tell me the number of lines
+While here, let me use `wc` with the `-l` option to tell me the number of lines, and hence number of unique root words in the Quran.
 
 
 ```python
@@ -262,7 +260,7 @@ sort | uniq | wc -l
     1651
 
 
-**Wow**! with just few commands I managed to discover that the Quran contains a total of **1651** roots.
+**Wow**! with just few commands I managed to discover that the Quran contains a total of **1651** roots. This should give hope to those who intend to learn vocabulary of the Quran, which has nearly 77k words, but only 1,651 root words to memorize. 
 
 Now, let us revisit `uniq` with the `-c` option to preserve the counts.
 
@@ -285,7 +283,7 @@ sort | uniq -c | tail
           7 zyt
 
 
-All that is left is to do a `sort` again but with options `-n` to make numeric sort on the counts and `-r` to make reverse sort so in the descending order. Let us take the most popular 20 roots.
+All that is left is to do a `sort` again but with options `-n` to make numeric sort on the counts and `-r` to make reverse sort in the descending order. Let us take the most popular 20 roots.
 
 (*note: again with the above I run into broken pipe issue, so I resorted to tail, then removed the reverse order*)
 
@@ -320,26 +318,29 @@ sort | uniq -c | sort -n | tail -20
 
 ### Great revelations
 
-See the power of the linux shell. With just few piped commands, I produced a sorted list of the roots and their frequency in the Quran. Here are some winning roots.
+See the power of the Linux shell. With just few piped commands, I produced a sorted list of the roots and their frequency in the Quran. Here are some winning roots.
 
 **Alh**
+
 Sure, no doubt that the word 'Allah' will be the winner far exceeding the runner's up.
 
 **qwl**
 
-The most frequent root word in the Quran is (قول) `qwl` which are the derivatives of `saying`. After all the Quran is the sayings of Allah. Anyone would recognize the thousands of times Allah command His prophet Muhammad - peace be upon him - to `say` something and hence it is the greatest prove that the job of Prophet Muhammad is to convey whatever he is told to convey and never to author anything himself. This data analysis just comes to prove that.
+The second most frequent root word in the Quran is (قول) `qwl` which are the derivatives of `saying`. After all, the Quran is the sayings of Allah. Anyone would recognize the thousands of times Allah command His prophet Muhammad - peace be upon him - to `say` whatever Allah wants him to say, and hence it is the greatest prove that the job of Prophet Muhammad is to convey whatever he is told to convey and never to author anything himself. This data analysis just comes to prove that.
 
 **kwn**
 
-Runner's up is all derivatives of (كون) `kwn` which refers to the verb to be. And verb to be is the mother of all actions, and it is the word through which Allah executes His orders. When He intends something, He just says 'Be' and it becomes. Shakespear might had some glimpse of the significance of this verb when he said, "To be or not to be, that is the Question".
+In the third position comes all derivatives of (كون) `kwn` which refers to the verb to be. And verb to be is the mother of all actions, and it is the word through which Allah executes His orders. When He intends something, He just says 'Be' and it becomes. Shakespeare might had some glimpse of the significance of this verb when he said, "To be or not to be, that is the Question".
 
 **rbb**
 
-The third most frequent word refers to Lord which is another way to say Allah. Actually -with few exceptions- you can add this count to the counts of Allah.
+The fourth most frequent word refers to the word **Lord** which is another way to say Allah. Actually -with few exceptions- you can add this count to the counts of the word Allah.
 
-**Amn** and **Elm** These includes all derivatives of faith/believe `Amn` and knowledge `Elm`, showing great emphasis on these two qualities as very essential ingredients for salvation. Islam is nothing but seeking knowledge and having faith accordingly. Also note `Amn` brings in all derivatives of `peace` as well. 
+**Amn** and **Elm** 
 
-Spend some time studying the significance of each of those roots, but here I focused more on the technical bits.
+These includes all derivatives of faith/believe `Amn` and knowledge `Elm`, showing great emphasis on these two qualities as essential ingredients for salvation. Islam is nothing but seeking knowledge and having faith accordingly. Also note `Amn` brings in all derivatives of `peace` as well. 
+
+One can derive much more insights from just this root frequencies. Spend some time studying the significance of each of those roots, but here I focused more on the technical bits.
 
 ## Extension: Roots of a surah
 
@@ -384,9 +385,9 @@ sort | uniq -c | sort -nr
           1 $rr
 
 
-All that is left is to place this entire code inside a shell script and allow the user to run the script passing the surah no. and get the list of roots for that surah.
+All that is left is to place this entire code inside a shell script and allow the user to run the script passing the surah no. as parameter and get the list of roots for that surah.
 
-Open up a file using your favorite editor (I use `mcedit`), and create a file, say `qr.sh` for Quran Roots, as follows:
+Open up a file using your favorite editor (I use `mcedit`), and create a file, say `qr.sh` (short for Quran Roots) with the following content:
 
 ```linux
 #!/usr/bin/env bash
@@ -397,9 +398,9 @@ cut -d':' -f2 |\
 sort | uniq -c | sort -n
 ```
 
-The first line is for the shell to recognize where to find the `bash` shell if needed. The second line is a variable that captures the first argument from user as we will see later. The rest is the exact code we have seen earlier, just note now I am using this variable `$NUM` in the first `grep`.
+The first line is for the shell to recognize where to find the `bash` shell if needed. The second line is a variable that captures the first argument from user as we will see later. The rest is the exact code we have seen earlier, just note how I am using this variable `$NUM` in the first `grep`.
 
-After that, you need to make this script executable by the following command
+After that, you need to make this script executable by the following command.
 
 
 ```python
@@ -433,9 +434,9 @@ Now, let us try to launch our new script asking to return all roots for sura no.
           4 rHm
 
 
-Sure enough, the derivatives of the root word of `rHm` (رحم) is the most frequent word in this surah. 
+Sure enough, the derivatives of the root word of `rHm` (رحم) (meaning mercy) is the most frequent word in this surah. 
 
-Just out of curiosity, we know Surah No. 55 (ar-Rahman) has repition of the verse:
+Just out of curiosity, we know Surah No. 55 (ar-Rahman) has lots of repetition of the verse:
 
 (فبأي آلاء ربكما تكذبان)
 
