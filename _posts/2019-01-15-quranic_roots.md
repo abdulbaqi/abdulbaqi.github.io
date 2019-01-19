@@ -461,6 +461,6 @@ Let us test that
 
 # Conclusion
 
-This file is a gold mine that we only are scratching its surface, and starting with Linux command line. Later, I will take you with more interesting journey with `python`'s `pandas` and other tools. 
+This file is a gold mine that we only are scratching its surface, and starting with Linux command line. I will take this problem into more interesting one using `python`'s `pandas` tool [here](http://abdulbaqi.io/2019/01/19/quranic-roots-pandas/). 
 
 You will find useful material in [this](https://www.datascienceatthecommandline.com) book and as well as in the [data36](https://data36.com/) blog.

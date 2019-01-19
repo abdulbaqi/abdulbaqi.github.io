@@ -414,3 +414,5 @@ Go ahead and test it in the code snippet below. (First, press the run button.)
 This function can be enhanced by working at root-words level instead of unique words. That will give more concise list. Nevertheless, try out small chapters and you will notice that the unique word list of a surah truly captures some of the key concepts and themes of that surah. 
 
 Also, here is the jupyter [notebook](https://notebooks.azure.com/asharaf/projects/quran) for you to try. 
+
+I have also other posts to investigate this question using [Linux](http://abdulbaqi.io/2019/01/15/quranic_roots/) commands or python [pandas](http://abdulbaqi.io/2019/01/19/quranic-roots-pandas/). 
