@@ -37,4 +37,7 @@ Of course, the application of Quranic text to our times is purely my endeavor gi
 And finally, you can support me financially. I can then outsource some of the web publishing and maintenance stuff with these amounts.
 
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/P5P2R7FA)
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
