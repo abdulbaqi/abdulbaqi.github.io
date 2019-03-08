@@ -47,15 +47,15 @@ And here is a third verse:
 
 By measure, we mean no approximation, no limit, no calculus. It is exact measure to the trillionth decimal place and beyond. 
 
-I can not resist the temptation to bombard you with this consecutive verses from Surah no. 15:
+I can not resist the temptation to bombard you with this consecutive verses from Surah no. 15, verses 19 - 22:
 
-> 19. We spread the earth, and placed stabilizers in it, and in it We grew all things in `proper measure`.
+> We spread the earth, and placed stabilizers in it, and in it We grew all things in `proper measure`.
 
-> 20. And in it We created livelihoods for you, and for those for whom you are not the providers.
+> And in it We created livelihoods for you, and for those for whom you are not the providers.
 
-> 21. There is not a thing but with Us are its stores, and We send it down only in `precise measure`.
+> There is not a thing but with Us are its stores, and We send it down only in `precise measure`.
 
-> 22. We send the fertilizing winds; and send down water from the sky, and give it to you to drink, and you are not the ones who store it.
+> We send the fertilizing winds; and send down water from the sky, and give it to you to drink, and you are not the ones who store it.
 
 This brings me to Data Science and Artificial Intelligence. 
 
