@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Calculus, AI and the All-Knowing God
-subtitle: 
+title: How to Handle White Supremacy 
+subtitle: Perspectives of a Muslim
 bigimg: /img/colorful.jpg
 image: /img/ballon-sq.jpg
 share-img: /img/ballon-sq.jpg
@@ -34,7 +34,7 @@ For example, this “arrogance factor” helps us understand the stand of these 
 
 These were too humiliating for a white man like Elliot Abrams to endure and as such he reached the same tipping point that made Satan burst out with anger and refuse to bow down to Adam in front of God.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/4ZvtMyeUhNc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/4ZvtMyeUhNc" frameborder="0" allowfullscreen></iframe>
 
 
 # Western Europe and White Man’s Burden
@@ -55,14 +55,14 @@ So, today when the third generation Bangladeshis in East London (or a Moroccan i
 
 Nobody has elected the white man to take the burden to civilize the nations, and Kipling was damn arrogant in his “White Man’s Burden” poem:
 
->> Take up the White Man’s burden —
-Send forth the best ye breed —
-Go send your sons to exile
-To serve your captives’ need
-To wait in heavy harness
-On fluttered folk and wild —
-Your new-caught, sullen peoples,
-Half devil and half child
+> Take up the White Man’s burden — <br>
+Send forth the best ye breed — <br>
+Go send your sons to exile<br>
+To serve your captives’ need<br>
+To wait in heavy harness<br>
+On fluttered folk and wild —<br>
+Your new-caught, sullen peoples,<br>
+Half devil and half child<br>
 
 If Tarrant wants to drive the third generation Muslims out of Europe — the grandsons of the same people the European brought to serve the industrial revolution — then as a prerequisite, he should ask the European settlers first to leave the Americas, Canada, South Africa, Australia, and New Zealand and issue an official apology to the indigenous people in those countries.
 
@@ -85,7 +85,7 @@ Most of my readers will brand me crazy if I propose that if Nordics convert into
 
 In Chapter 108 of the Quran (which is by no coincidence is named the Plenty -or al-Kawthar) verse no. 3, Allah says:
 
->> Those who hate you (O Muhammad), his descendants will be cut off.
+> Those who hate you (O Muhammad), his descendants will be cut off.
 
 Scandinavian countries — the birthplace of Nordic Europa- were at the forefront of mocking prophet Muhammad (remember Denmark) and spreading Islamophobic rhetoric. It seems little surprising then that this very region is the greatest sufferer of negative birthrate among the European population. I think it would be sensible then to connect these dots, and benefit from the above verse, and change attitude towards Prophet Muhammad, and get the birthrates positive! Maybe I am asking for too much :).
 
@@ -106,7 +106,7 @@ So, let me bring the topic home and bring Tarrant with it. In the arena of cultu
 There are myriad reasons behind the decline in fertility rates and the destruction of the traditional family unit. We must inevitably correct the disaster of hedonistic, nihilistic individualism.
 Paul Joseph Watson — a popular white supremacist — for example, elaborates more in his recent video:
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/v9ohrBhhN4k" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/v9ohrBhhN4k" frameborder="0" allowfullscreen></iframe>
 
 
 The law of physics that dictates the movement of anything from high pressure to low pressure seems to work well in case of ideas and culture. The culture that promotes high values of family traditions, ethics, moral, and spirituality naturally diffuse these values towards any culture that is low in these values. This seems very problematic to Tarrant. He cannot tolerate if a fellow Nordic with fair-hair and light-colored eyes chose willingly to join the folds of Muhammad. Here is what Tarrant has to say about them (page 12).
@@ -121,7 +121,7 @@ Islam recognizes races, and would never oppose if someone wants to refrain from 
 
 Listen to this divine call to all people (Quran 49:13):
 
->> O people! We created you from a male and a female, and made you races and tribes, that you may know one another.
+> O people! We created you from a male and a female, and made you races and tribes, that you may know one another.
 
 The beautiful rainbow our cosmopolitan cities has today because of immigration and co-existence of several cultures is an excellent opportunity to “know one another.” It’s lots of fun if, on a casual meeting Tarrant told Abdul about a Viking legend, and Abdul told Tarrant the story of Prophet Muhammad’s migration from Mecca to Medina, for example.
 
