@@ -72,9 +72,6 @@ Thus started Tarrant his manifesto. His title “Great Replacement” also allud
 
 I can not help much if God has endowed Muslim women’s womb with such a blessing, despite all the campaigns of the World Bank’s policymakers in Washington DC for “family planning” in developing countries.
 
-
-happy kids in Bangladesh
-
 After all, it seems God’s promise to Abraham in Genesis 22:17 was meant to be for the branch of Ishmael:
 
 I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore.
