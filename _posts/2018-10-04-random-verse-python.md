@@ -5,7 +5,7 @@ subtitle:
 bigimg: /img/code.jpeg
 image: /img/quran.jpeg
 share-img: /img/quran.jpeg
-tags: quran python
+tags: quran python technology
 ---
 Each Quranic verse is a miracle. It must be so, because it is words of God and the Wise Allah. Won't it be a wonderful idea to create an app that throws to you random verses from the Quran?
 

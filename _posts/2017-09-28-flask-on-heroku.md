@@ -5,7 +5,7 @@ subtitle: Deploy a tiny web application on a free platform
 bigimg: /img/web-app.png
 image: /img/charts-market.jpg
 share-img: /img/charts-market.jpg
-tags: flask python heroku matplotlib
+tags: flask python heroku matplotlib technology
 ---
 
 Flask on Heroku! Seems a complete gibberish if you encounter them for the first time. But to me, for what I intend, they are very precious tools for any web developer. 

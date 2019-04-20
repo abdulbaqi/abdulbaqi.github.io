@@ -5,7 +5,7 @@ subtitle: Finding Root Words of the Quran using Linux Commands
 bigimg: /img/matrix.jpg
 image: /img/bash.png
 share-img: /img/bash.png
-tags: quran linux text
+tags: quran linux text technology
 ---
 
 Linux command line is a powerful and free tool. Using just few commands one can productively do powerful text analysis. In this quick tutorial I will demonstrate few of such Linux commands.

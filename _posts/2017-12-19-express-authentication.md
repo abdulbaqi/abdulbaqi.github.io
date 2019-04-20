@@ -5,7 +5,7 @@ subtitle: A minimalist app to authenticate users
 bigimg: /img/key.jpg
 image: /img/key-square.jpg
 share-img: /img/key-square.jpg
-tags: nodejs express mongodb authentication security
+tags: nodejs express mongodb authentication security technology
 excerpt: 
 ---
 

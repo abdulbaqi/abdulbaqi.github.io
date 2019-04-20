@@ -5,7 +5,7 @@ subtitle: A basic table styling app in angular
 bigimg: /img/building.jpg
 image: /img/ng5_new.jpg
 share-img: /img/ng5_new.jpg
-tags: angular javascript
+tags: angular javascript technology
 excerpt: 
 ---
 

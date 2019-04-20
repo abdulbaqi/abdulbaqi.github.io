@@ -5,7 +5,7 @@ subtitle:
 bigimg: /img/code.jpeg
 image: /img/quran.jpeg
 share-img: /img/quran.jpeg
-tags: quran python
+tags: quran python technology
 ---
 A Quranic chapter is a world by itself. Quranic chapters in Arabic are called *surah*, and one of the two meanings of this word means a boundary wall. That is so because each surah is like a wall that has its own meaning and theme kept inside. 
 

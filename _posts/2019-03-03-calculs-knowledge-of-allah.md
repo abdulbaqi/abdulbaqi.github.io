@@ -3,8 +3,8 @@ layout: post
 title: Calculus, AI and the All-Knowing God
 subtitle: 
 bigimg: /img/math.jpg
-image: /img/ballon-sq.jpg
-share-img: /img/ballon-sq.jpg
+image: /img/path-sq.jpg
+share-img: /img/path-sq.jpg
 tags: math calculus science
 ---
 
