@@ -3,8 +3,8 @@ layout: post
 title: Configuring Nginx
 subtitle: to run static, node and react contents
 bigimg: /img/code.jpeg
-image: /img/code-square.jpg
-share-img: /img/code-square.jpg
+image: /img/coding-sq.jpg
+share-img: /img/coding-sq.jpg
 tags: technology nginx
 ---
 I found bits and pieces information here and there, and hence documenting the steps I followed as a future reference for me, and for anyone else in my shoes.
@@ -106,14 +106,16 @@ step 1. clone the app
 
 step 2. cd to the directory
 
-step 3. npm install
+step 3. `npm install`
 
-step 4. modify the package.json file to create an entry where you want the app to be available in my case it will be the ayaat subdirectory.
+step 4. modify the `package.json` file to create an entry where you want the app to be available in my case it will be the ayaat subdirectory.
 
+```
 "homepage": "https://playquran.com/ayaat",
-step 5. npm run build this will make npm follow the instruction in the package.json file and create static contents in the folder build
+```
+step 5. `npm run build` this will make npm follow the instruction in the package.json file and create static contents in the folder build
 
-step 6. copy all files (and folders cp -r ) from the build folder into a folder (I will call it ayaat) inside your/var/www/playquran.com/html folder.
+step 6. copy all files (and folders cp -r ) from the build folder into a folder (I will call it ayaat) inside your `/var/www/playquran.com/html` folder.
 
 ```
 /var/www/playquran.com/html
@@ -140,7 +142,7 @@ step 6. copy all files (and folders cp -r ) from the build folder into a folder 
 
 ```
 
-After you are done with this, it remains only to add a location /ayaat context your nginx file /etc/nginx/sites-available/playquran.com
+After you are done with this, it remains only to add a location /ayaat context your nginx file `/etc/nginx/sites-available/playquran.com`
 
 ```
 server {
@@ -156,7 +158,7 @@ location /ayaat/ {
 }
 ```
 
-Note how we specified the root location under the server and used the try_files inside the location context.
+Note how we specified the root location under the server and used the `try_files` inside the location context.
 
 ## Conclusion
 In this tutorial, I guided you through three digitalocean tutorial links on how to provision your own server and serve static contents over an nginx server. Also, how to serve a nodejs app listening on a particular port. Also, gave you the solution how to serve an express app running on a port.
