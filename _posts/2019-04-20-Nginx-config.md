@@ -10,7 +10,7 @@ tags: technology nginx
 I found bits and pieces information here and there, and hence documenting the steps I followed as a future reference for me, and for anyone else in my shoes.
 
 ## Nginx setup
-I created a droplet from DigitalOceal ($5/month) and followed their tutorial on installing NginX server on Ubuntu 18.04, as well as securing it with certbot.
+I created a droplet from DigitalOceal ($5/month) and followed [their](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04) tutorial on installing NginX server on Ubuntu 18.04, as well as [securing](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04) it with certbot.
 
 During the process, I registered a domain from GoDaddy and created A records attaching that domain name to my droplet from my DigitalOcean dashboard.
 
@@ -37,7 +37,7 @@ listen [::]:443 ssl ipv6only=on; # managed by Certbot
 Also note that (if you followed the digitialOcean tutorial you will know that) the static contents are available in the directory: var/www/playquran.com/html
 
 ### Node js
-Once you are done with serving static files, you may want to serve some nodejs contents listening over some port. For this digitalocean also has a good tutorial. Follow that tutorial and have the following node file serving at port (whatever, but in my case) 4003, as follows:
+Once you are done with serving static files, you may want to serve some nodejs contents listening over some port. For this digitalocean also has a good [tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-18-04). Follow that tutorial and have the following node file serving at port (whatever, but in my case) 4003, as follows:
 
 ```
 const http = require('http');
@@ -97,7 +97,7 @@ location /express/ {
 }
 ```
 
-I have struggled a lot, and it appears that others as well because of the absence of the trailing / at the end of /express/ and the uri as well. This link was very helpful in resolving that issue.
+I have struggled a lot, and it appears that others as well because of the absence of the trailing / at the end of /express/ and the uri as well. This [link](https://serverfault.com/questions/601332/how-to-configure-nginx-so-it-works-with-express) was very helpful in resolving that issue.
 
 ### React
 Now, let us turn our attention to a front-end react app. Let us assume you have your app available in a GitHub repo.
