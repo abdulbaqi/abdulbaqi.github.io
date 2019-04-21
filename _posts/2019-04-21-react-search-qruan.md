@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Configuring Nginx
-subtitle: to run static, node and react contents
+title: A React App to Search English Translation of the Quran
+subtitle: 
 bigimg: /img/coding.jpg
 image: /img/code-square.jpg
 share-img: /img/code-square.jpg
