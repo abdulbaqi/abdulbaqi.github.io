@@ -5,7 +5,7 @@ subtitle:
 bigimg: /img/coding.jpg
 image: /img/redux-icon.png
 share-img: /img/redux-icon.png
-tags: technology react javascript redux
+tags: technology react javascript redux web
 ---
 
 This app illustrates the working of `Redux` with `React` following from Stephen Grider tutorials in Udacity.

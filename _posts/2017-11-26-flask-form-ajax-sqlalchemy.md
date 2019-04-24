@@ -5,7 +5,7 @@ subtitle:
 bigimg: /img/charts-market.jpg
 image: /img/js.png
 share-img: /img/js.png
-tags: flask sqlalchemy ajax javascript technology
+tags: flask sqlalchemy ajax javascript technology web
 excerpt: In this post I will demonstrate how to integrate database into Flask. I will build a small form containing text input. This input is dynamically populated through `ajax` when you start typing things. The data that ajax populates is coming from postgresql database.
 ---
 

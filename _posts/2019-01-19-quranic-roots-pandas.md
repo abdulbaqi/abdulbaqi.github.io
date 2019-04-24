@@ -5,7 +5,7 @@ subtitle: Finding Root Words of the Quran using Python and Pandas
 bigimg: /img/matrix.jpg
 image: /img/python-icon.png
 share-img: /img/matrix.jpg
-tags: quran python pandas text technology
+tags: quran python pandas text technology data
 ---
 
 In a [previous](http://abdulbaqi.io/2019/01/15/quranic_roots/) post I explored some of `Linux` commands to find root words in the entire Quran or in a particular sura of the Quran.

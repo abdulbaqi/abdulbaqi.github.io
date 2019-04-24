@@ -5,7 +5,7 @@ subtitle: counting Makki and Madani words in the Quran
 bigimg: /img/code.jpeg
 image: /img/kaba.jpg
 share-img: /img/kaba.jpg
-tags: quran python technology
+tags: quran python technology data
 ---
 The Quran started to reveal in Makkah for a total period of 13 years. Then, the Prophet migrated to Medina and stayed there for 10 years before he died and the Quran stopped to reveal. The 13 Meccan years were much different in nature than the 10 Medinan years. During the 13 Meccan years, prophet Muhammad struggled to build human beings that would later rule a nation. That required nurturing the tenants of the Islamic ideology in the hearts and minds of the Muslims amidst a hostile environment. Thus, the Quranic chapters and verses revealed in Makkah were suitable to address these challenges in Makkah. 
 

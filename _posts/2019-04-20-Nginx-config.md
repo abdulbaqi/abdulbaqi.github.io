@@ -5,7 +5,7 @@ subtitle: to run static, node and react contents
 bigimg: /img/code.jpeg
 image: /img/coding-sq.jpg
 share-img: /img/coding-sq.jpg
-tags: technology nginx
+tags: technology nginx web
 ---
 I found bits and pieces information here and there, and hence documenting the steps I followed as a future reference for me, and for anyone else in my shoes.
 

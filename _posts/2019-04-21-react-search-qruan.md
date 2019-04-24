@@ -5,7 +5,7 @@ subtitle:
 bigimg: /img/coding.jpg
 image: /img/code-square.jpg
 share-img: /img/code-square.jpg
-tags: technology react javascript quran
+tags: technology react javascript quran web
 ---
 This react app explores basics of react app creation and its purpose is to be a tutorial documenting the typical steps. All codes are available in this [github](https://github.com/abdulbaqi/verse-search) repo. 
 
