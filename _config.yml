@@ -24,6 +24,7 @@ description: A droplet from every ocean!
 # List of links in the navigation bar
 navbar-links:
   Technology: "http://abdulbaqi.io/tag/technology/"
+  Bookmarks: "bookmarks"
   About Me: "aboutme"
   عربي: "http://arabic.abdulbaqi.io"
   
