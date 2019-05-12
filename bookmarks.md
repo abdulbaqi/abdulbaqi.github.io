@@ -10,6 +10,10 @@ This page is evolving all the time. It is a reference for me, but no harm to mak
 
 IFAD [website](https://www.ifad.org/en/development-effectiveness) has good introduction on the subject. 
 
+IFC has their [AIMM](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/development+impact/areas+of+work/sa_aimm) system for Impact monitoring. 
+
+
+
 ## Design
 
 Here are some sites to get inspiration of designs. Search for keywords like "magazine spread"
