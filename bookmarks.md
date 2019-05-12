@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bookmarks
-subtitle: Abdul-Baqi in Arabic means servant of the One Who Remains
+subtitle: Knowledge is a valuable hunt, so capture it with bookmark
 ---
 
 This page is evolving all the time. It is a reference for me, but no harm to make it public in case anything here interests you. This contains assorted list of bookmarks which I wanted to keep them saved for later use. 
