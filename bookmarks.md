@@ -33,7 +33,7 @@ Google search: `typekit font pairing` to see the good combinations of body (sans
 
 To generate paragraphs of a given word count, you can always use [lipsem](https://www.lipsum.com/).
 
-For free images see [freeimages](https://www.freeimages.com)
+For free images see [freeimages](https://www.freeimages.com), also [pixels](https://www.pexels.com)
 
 For icons use [iconfinder](https://www.iconfinder.com)
 
