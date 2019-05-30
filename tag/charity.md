@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: charit"
-tag: charit
+title: "Tag: charity"
+tag: charity
 robots: noindex
 ---
