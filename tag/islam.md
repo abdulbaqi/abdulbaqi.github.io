@@ -1,12 +1,12 @@
 ---
 layout: tagpage
-title: "Tag: islam"
-tag: islam
+title: "Tag: Islam"
+tag: Islam
 robots: noindex
 ---
 ---
 layout: tagpage
-title: "Tag: Islam"
-tag: Islam
+title: "Tag: islam"
+tag: islam
 robots: noindex
 ---
