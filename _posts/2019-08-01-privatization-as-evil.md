@@ -3,8 +3,8 @@ layout: post
 title: Privatization as anti-Human
 subtitle: 
 bigimg: /img/fire-tree.jpg
-image: /img/fire-sq.jpeg
-share-img: /img/fire-sq.jpeg
+image: /img/fire-sq.jpg
+share-img: /img/fire-sq.jpg
 tags: capitalism neoliberalism
 excerpt: The trend is clear. Elders of neoliberalism often force their anti-Human bitter pill to the developing nations sugar-coated-in false promises of job creation, efficiency, etc. When their commodity is an essential one, then the suffering of the poor knows no limit. 
 ---
