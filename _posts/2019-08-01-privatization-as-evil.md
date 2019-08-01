@@ -21,7 +21,7 @@ Not all societies are lucky enough to stand firm in front of this bitter pill of
 
 I think the world would be much pleased if humanity resorted to some of the teachings of Islam. Here is a hadith (saying of the Prophet Muhammad). 
 
-People have equal rights on three: water, animal fodder, and fire. Asking price for them is illegal. 
+> People have equal rights on three: water, animal fodder, and fire. Asking price for them is illegal. 
 
 This hadith means that these God gifted natural resources should be a public good because they are essential to all. 
 If Oxygen were not so ubiquitous, the above evil trio would have privatized it. 
