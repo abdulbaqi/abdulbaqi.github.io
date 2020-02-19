@@ -16,7 +16,7 @@ Needless to say that this is my personal blog, and neither my employer nor any o
 
 One common thread you would notice in my writings is my obsession with the Quran. You may feel that I attempt to indulge Quranic scriptures in everything. Yes, you are right and I feel proud of that.  
 
-I started my elementary school in remote villages of Saudi Arabia and had chance to study Arabic with native Arabs. That gave me an access to the content of the Quran to an extent that allowed me to appreciate its beauty and rhetorics. After graduating from high school I started undergraduate program in computer science. This technical track allowed me to gradually feel comfortable with English to a level I can express myself albeit mixed with frequent grammatical and stylistic embarrassments. 
+I started my elementary school in remote villages of Saudi Arabia and had chance to study Arabic with native Arabs. That gave me an access to the language of the Quran to an extent that allowed me to appreciate its beauty and rhetorics. After graduating from high school I started undergraduate program in computer science. This technical track allowed me to gradually feel comfortable with English to a level I can express myself albeit mixed with frequent grammatical and stylistic embarrassments. 
 
 Yet I decided -amidst these barriers- to expose myself to the world. Why? 
 
@@ -34,6 +34,8 @@ You will find me try to explain and solve the financial crisis of 2008 in the li
 
 Of course, the application of Quranic text to our times is purely my endeavor given my limited intellectual background and my limited world knowledge. Errors can easily creep in this undertaking from various doors. I might misunderstand the contemporary problem or topic that I wanted to apply the Quranic text to. I might misunderstand the Quranic verse itself while understanding the modern topic. I might mistake in the method of appling the Quranic text to the modern context. And any combinations of these three cases can happen as well. Nevertheless, the very intellectual pleasure in this undertaking is worthwhile, regardless of the outcome. My naive and rudimentary game here might ignite a wonderful research thread in the mind of more able scholars. You might be that scholar.
 
-And finally, you can support me financially. I can then outsource some of the web publishing and maintenance stuff with these amounts.
+You will find a number of audio lectures  and casual talks - in English or Bangla- on my [archive.com](https://archive.org/details/@letquranspeak) space. I have my YouTube series on Tafsir in Bangla called [Quranic thoughts in Bangla](https://www.youtube.com/channel/UC4ub2p-u2oirkw9HEUIe08Q), and also my other English YouTube channel on [Quran: a random talk](https://www.youtube.com/channel/UCkQnwZF93vz68UrYKDWDhzA). By searching these channel names you will find podcasts as well in itunes or other apps I think. 
+
+If you liked my stuff and wanted to thank me, then just pray for me and share the content with others. If you become my fan and wanted to do something beyond just dua, then why not purchase me a cup of coffee :)
 
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/P5P2R7FA)
