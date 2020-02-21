@@ -2,9 +2,9 @@
 layout: post
 title: waiting for SDGs
 subtitle: is it like waiting for Godot?
-bigimg: /img/sdg.jpg
-image: /img/sdg.jpg
-share-img: /img/sdg.jpg
+bigimg: /img/poverty.jpg
+image: /img/sdg-square.jpg
+share-img: /img/sdg-square.jpg
 tags: sdg development 
 ---
 
