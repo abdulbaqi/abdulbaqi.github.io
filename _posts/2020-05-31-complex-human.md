@@ -3,7 +3,7 @@ layout: post
 title: It is complex to understanding human
 subtitle: 
 bigimg: /img/poverty.jpg
-image: /img/girt-square.jpg
+image: /img/girl-square.jpg
 share-img: /img/poverty.jpg
 tags: poverty development
 ---
