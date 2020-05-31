@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It is complex to understanding human
+title: It is complex to understand human
 subtitle: 
 bigimg: /img/poverty.jpg
 image: /img/girl-square.jpg
