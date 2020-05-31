@@ -19,57 +19,57 @@ Here I end by this wonderful poem by Ross Coggins.
 **The Development Set**
 *by Ross Coggins*
 
-Excuse me, friends, I must catch my jet
-I’m off to join the Development Set;
-My bags are packed, and I’ve had all my shots
-I have traveller’s checks and pills for the trots!
+Excuse me, friends, I must catch my jet<br>
+I’m off to join the Development Set;<br>
+My bags are packed, and I’ve had all my shots<br>
+I have traveller’s checks and pills for the trots!<br>
 
-The Development Set is bright and noble
-Our thoughts are deep and our vision global;
-Although we move with the better classes
-Our thoughts are always with the masses.
+The Development Set is bright and noble<br>
+Our thoughts are deep and our vision global;<br>
+Although we move with the better classes<br>
+Our thoughts are always with the masses.<br>
 
-In Sheraton Hotels in scattered nations
-We damn multi-national corporations;
-injustice seems easy to protest
-In such seething hotbeds of social rest.
+In Sheraton Hotels in scattered nations<br>
+We damn multi-national corporations;<br>
+injustice seems easy to protest<br>
+In such seething hotbeds of social rest.<br>
 
-We discuss malnutrition over steaks
-And plan hunger talks during coffee breaks.
-Whether Asian floods or African drought,
-We face each issue with open mouth.
+We discuss malnutrition over steaks<br>
+And plan hunger talks during coffee breaks.<br>
+Whether Asian floods or African drought,<br>
+We face each issue with open mouth.<br>
 
-We bring in consultants whose circumlocution
-Raises difficulties for every solution –
-Thus guaranteeing continued good eating
-By showing the need for another meeting.
+We bring in consultants whose circumlocution<br>
+Raises difficulties for every solution –<br>
+Thus guaranteeing continued good eating<br>
+By showing the need for another meeting.<br>
 
-The language of the Development Set
-Stretches the English alphabet;
-We use swell words like “epigenetic”
-“Micro”, “macro”, and “logarithmetic”
+The language of the Development Set<br>
+Stretches the English alphabet;<br>
+We use swell words like “epigenetic”<br>
+“Micro”, “macro”, and “logarithmetic”<br>
 
-It pleasures us to be esoteric –
-It’s so intellectually atmospheric!
-And although establishments may be unmoved,
-Our vocabularies are much improved.
+It pleasures us to be esoteric –<br>
+It’s so intellectually atmospheric!<br>
+And although establishments may be unmoved,<br>
+Our vocabularies are much improved.<br>
 
-When the talk gets deep and you’re feeling numb,
-You can keep your shame to a minimum:
-To show that you, too, are intelligent
-Smugly ask, “Is it really development?”
+When the talk gets deep and you’re feeling numb,<br>
+You can keep your shame to a minimum:<br>
+To show that you, too, are intelligent<br>
+Smugly ask, “Is it really development?”<br>
 
-Or say, “That’s fine in practice, but don’t you see:
-It doesn’t work out in theory!”
-A few may find this incomprehensible,
-But most will admire you as deep and sensible.
+Or say, “That’s fine in practice, but don’t you see:<br>
+It doesn’t work out in theory!”<br>
+A few may find this incomprehensible,<br>
+But most will admire you as deep and sensible.<br>
 
-Development set homes are extremely chic,
-Full of carvings, curios, and draped with batik.
-Eye-level photographs subtly assure
-That your host is at home with the great and the poor.
+Development set homes are extremely chic,<br>
+Full of carvings, curios, and draped with batik.<br>
+Eye-level photographs subtly assure<br>
+That your host is at home with the great and the poor.<br>
 
-Enough of these verses — on with the mission!
-Our task is as broad as the human condition!
-Just pray god the biblical promise is true:
-The poor ye shall always have with you.
+Enough of these verses — on with the mission!<br>
+Our task is as broad as the human condition!<br>
+Just pray god the biblical promise is true:<br>
+The poor ye shall always have with you.<br>
