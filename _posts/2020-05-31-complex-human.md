@@ -1,31 +1,75 @@
 ---
 layout: post
-title: The Narrative of the Chosen One
-subtitle: Exploiting the false Story of David and Bathsheba
-bigimg: /img/wolf.jpg
-image: /img/eagle-sq.jpg
-share-img: /img/wolf.jpg
-tags: power WhiteSupremacy
+title: It is complex to understanding human
+subtitle: 
+bigimg: /img/poverty.jpg
+image: /img/girt-square.jpg
+share-img: /img/poverty.jpg
+tags: poverty development
 ---
-The greatest gift of God to Muslims is the Quran. The gift of the Quran is not limited to its text but the divine guarantee to keep that text intact from getting corrupted and mixed with man-made amendments. The Torah and Gospel were also divine texts, except that filthy hands went into adding dangerous amendments. Amendments that came at a high price.
-Among such fabricated biblical stories, is the story of David and Bathsheba. Here we see how the noble King and Prophet David is concocting a [cunning plot](https://www.biblestudytools.com/bible-stories/david-and-bathsheba.html) to marry Bathsheba after getting rid of her husband. Such a story found the perfect ground to germinate among the right-wing fascist groups who thought never mind Bathsheba as long as Goliath is been checked. The script is notoriously the same: there is an enemy, and there is a chosen group set on a mission to get rid of that enemy, and in between everything -no matter how horrible- is forgiven.
+Robert McNamara the Defense secretary during the Vietnam war was a man of science and materialism. He would reduce anything complex into a bunch of charts and graphs. He would explain anything in quantitative terms with a number of indicators. For example, he would set a bunch of indicators and would declare that such and such Vietnam village (or a ‘hamlet’ as they called it) is pacified by 35.6%! Ok, what bullshit that was supposed to mean?
 
-Recently I just finished watching the Netflix documentary called [The Family](https://www.netflix.com/title/80063867). Here we find the secret Christian elite fellowship who organizes the annual national prayer breakfast. Their idea is to reach to power through a Jesus wolf not a Jesus lamb. That is why they liked David the King. Their World Order is a Christian mission disguised under a narrative of the "Chosen" white anglo-Saxon people. Their founder is Abraham Vereide who came from Norway and after his death Douglas Coe advance the cause of the group. Their ultimate objective is to gain power and richness and their favorite model is that of Hitler and Mafia. Their rules are simple two: stay secret, and use the name of Jesus. 
+If you know that later he headed the World Bank, you would no more wonder why the World Bank worships indicators and quantitative analysis to explain a complex topic as human development. See for example the ‘Human Development Index’, that would churn data about few indicators (like for example, how many TV sets a household has) inside a black box of nerdy mathematical formula and finally spit out an index and would say, “Hurrah, Sweden is the most human developed country in the world”. Give me a break!
 
-High profile sex scandals are very much tolerated within this elite group and comfort and justification has always been found in the story of David and Bathsheba. Search for example scandal of John Ensign (Nevada) or Mark Sanford (North Carolina). They are OK to shake hands with the most authoritarian and dictator regimes on earth as long as that guarantees a steady flow of money and richness. 
-They have found in Trump their much sought Wolf King. No matter what sex scandal is leaked in the past or would be leaking in the future about Trump, the Bible and Bathsheba would come and save Trump as it saved David.
+McNamara — during the war — commissioned RAND corporation to study the Viet Cong by interviewing captured prisoners. That was a much more effective way. Just come down to earth and talk to people. Just by talking to the real people for half an hour will bring results much better than hundreds of indicators. Following a few interviews, they realized that those Viet Cong — who earlier was portrayed as a communist subhuman beast — after all were human beings sincerely fighting for a noble cause. One of McNamara’s men — after reading the report — said, “we are fighting on the wrong side.”
 
-All men are equally accountable in the eyes of God. Prophet Muhammad, Jesus or David all feared Allah and knew this fact very well. They were the noblest and the most righteous among mankind. The Power and Kingship that David got was a gift from God and made him only more humble, grateful, and never a tyrant or a dictator. Similarly, Prophet Muhammad would spend the night praying and offering gratitude to Allah till his feet would swell. On the second coming of Jesus, he would rule the earth and establish justice and equality, not like these capitalist Wolf Kings of today who would use the name of Jesus to rob nations of their resources and to fill the coffers of the rich few.
+“Human Development” is a tough and complex subject. The ‘World Bank’ and the policymakers in Washington DC often sit on their desks and dictate what ‘third world’ countries need without looking into their history, culture, religion, climate, geography, and heritage.
+Here I end by this wonderful poem by Ross Coggins.
 
-This false David and Bathsheba story found followers not only among the Christian Evangelicals and Machiavellians but with any movement who has the concept of a "Chosen One". I was watching with interest the newly released docuseries on Netflix called ["Who Killed Malcolm X"](https://www.netflix.com/title/80217478). There you would find that blind follower of Elija Muhammad who when asked, "didn't it bother you that Elija Muhammad illegally fathered teenage girls?". Lo and behold, the answer came,(I am paraphrasing) "Does it bother you as a Christian that David would plot the killing of his friend to marry his wife?"
-Peace and blessings of Allah be on Prophet Muhammad who said, "Never over-revere me as the Christians over-revered Jesus. I am only a servant of Allah, so just say Muhammad is His servant and Messenger".
+**The Development Set**
+*by Ross Coggins*
 
-We read in chapter 19:95 of the Quran, **"And all of them are coming to Him on the Day of Resurrection alone."** Everyone will have to face Allah alone, and Allah will hold everyone accountable. There will be a scale of justice. The good deeds will go to the right and the bad deeds to the left. Read for example Quran 21:47 **"And We place the scales of justice for the Day of Resurrection, so no soul will be treated unjustly at all. And if there is [even] the weight of a mustard seed, We will bring it forth. And sufficient are We as an accountant."**
+Excuse me, friends, I must catch my jet
+I’m off to join the Development Set;
+My bags are packed, and I’ve had all my shots
+I have traveller’s checks and pills for the trots!
 
-On the day of judgment, people would rush to noble prophets such as Adam, Noah, Abraham, and Moses asking to approach Allah and seek His favor, no one would dare to approach Allah and every great prophet would say, "My soul, My soul".
+The Development Set is bright and noble
+Our thoughts are deep and our vision global;
+Although we move with the better classes
+Our thoughts are always with the masses.
 
-Is there a place for the narrative of "the Chosen One" after all these?
+In Sheraton Hotels in scattered nations
+We damn multi-national corporations;
+injustice seems easy to protest
+In such seething hotbeds of social rest.
 
-I end with quoting the inherent Jeudo-Christian problem of the "chosen one" syndrome, which is pretty eloquently narrated in Quran 5:18.
+We discuss malnutrition over steaks
+And plan hunger talks during coffee breaks.
+Whether Asian floods or African drought,
+We face each issue with open mouth.
 
-> But the Jews and the Christians say, "We are the children of Allah and His beloved." Say, "Then why does He punish you for your sins?" Rather, you are human beings from among those He has created. He forgives whom He wills, and He punishes whom He wills. And to Allah belongs the dominion of the heavens and the earth and whatever is between them, and to Him is the [final] destination.
+We bring in consultants whose circumlocution
+Raises difficulties for every solution –
+Thus guaranteeing continued good eating
+By showing the need for another meeting.
+
+The language of the Development Set
+Stretches the English alphabet;
+We use swell words like “epigenetic”
+“Micro”, “macro”, and “logarithmetic”
+
+It pleasures us to be esoteric –
+It’s so intellectually atmospheric!
+And although establishments may be unmoved,
+Our vocabularies are much improved.
+
+When the talk gets deep and you’re feeling numb,
+You can keep your shame to a minimum:
+To show that you, too, are intelligent
+Smugly ask, “Is it really development?”
+
+Or say, “That’s fine in practice, but don’t you see:
+It doesn’t work out in theory!”
+A few may find this incomprehensible,
+But most will admire you as deep and sensible.
+
+Development set homes are extremely chic,
+Full of carvings, curios, and draped with batik.
+Eye-level photographs subtly assure
+That your host is at home with the great and the poor.
+
+Enough of these verses — on with the mission!
+Our task is as broad as the human condition!
+Just pray god the biblical promise is true:
+The poor ye shall always have with you.
