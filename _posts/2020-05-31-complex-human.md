@@ -1,11 +1,11 @@
 ---
 layout: post
-title: It is complex to understanding human
-subtitle:
-bigimg: /img/poverty.jpg
-image: /img/girl-square.jpg
-share-img: /img/poverty.jpg
-tags: poverty development
+title: The Narrative of the Chosen One
+subtitle: Exploiting the false Story of David and Bathsheba
+bigimg: /img/wolf.jpg
+image: /img/eagle-sq.jpg
+share-img: /img/wolf.jpg
+tags: power WhiteSupremacy
 ---
 The greatest gift of God to Muslims is the Quran. The gift of the Quran is not limited to its text but the divine guarantee to keep that text intact from getting corrupted and mixed with man-made amendments. The Torah and Gospel were also divine texts, except that filthy hands went into adding dangerous amendments. Amendments that came at a high price.
 Among such fabricated biblical stories, is the story of David and Bathsheba. Here we see how the noble King and Prophet David is concocting a [cunning plot](https://www.biblestudytools.com/bible-stories/david-and-bathsheba.html) to marry Bathsheba after getting rid of her husband. Such a story found the perfect ground to germinate among the right-wing fascist groups who thought never mind Bathsheba as long as Goliath is been checked. The script is notoriously the same: there is an enemy, and there is a chosen group set on a mission to get rid of that enemy, and in between everything -no matter how horrible- is forgiven.
