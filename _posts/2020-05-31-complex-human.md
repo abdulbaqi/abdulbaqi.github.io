@@ -7,16 +7,16 @@ image: /img/girl-square.jpg
 share-img: /img/poverty.jpg
 tags: poverty development
 ---
-Robert McNamara the Defense secretary during the Vietnam war was a man of science and materialism. He would reduce anything complex into a bunch of charts and graphs. He would explain anything in quantitative terms with a number of indicators. For example, he would set a bunch of indicators and would declare that such and such Vietnam village (or a ‘hamlet’ as they called it) is pacified by 35.6%! Ok, what bullshit that was supposed to mean?
+Robert McNamara the Defense secretary during the Vietnam war was a man of science and intellect. He would reduce anything complex into a bunch of charts and graphs. He would explain anything in quantitative terms with a number of indicators. For example, he would set a bunch of indicators and would declare that such and such Vietnam village (or a ‘hamlet’ as they called it) is pacified by 35.6%! Ok, what bullshit that was supposed to mean?
 
-If you know that later he headed the World Bank, you would no more wonder why the World Bank worships indicators and quantitative analysis to explain a complex topic as human development. See for example the ‘Human Development Index’, that would churn data about few indicators (like for example, how many TV sets a household has) inside a black box of nerdy mathematical formula and finally spit out an index and would say, “Hurrah, Sweden is the most human developed country in the world”. Give me a break!
+If you know that later he headed the World Bank, you would no more wonder why the World Bank worships indicators and quantitative analysis and explain a complex topic such as human development. Similarly, UNDP has their ‘Human Development Index’ and again they would churn data about few indicators (like for example, how many TV sets a household has) inside a black box of nerdy mathematical formula and finally would spit out an index and would say, “Hurrah, Sweden is the most human developed country in the world”. Give me a break!
 
-McNamara — during the war — commissioned RAND corporation to study the Viet Cong by interviewing captured prisoners. That was a much more effective way. Just come down to earth and talk to people. Just by talking to the real people for half an hour will bring results much better than hundreds of indicators. Following a few interviews, they realized that those Viet Cong — who earlier was portrayed as a communist subhuman beast — after all were human beings sincerely fighting for a noble cause. One of McNamara’s men — after reading the report — said, “we are fighting on the wrong side.”
+McNamara — during the war — commissioned RAND corporation to study the Viet Cong by interviewing captured prisoners. That was a much more effective way. Just come down to earth and talk to people. Just by talking to the real people for half an hour will bring results much better than hundreds of indicators. Following a few interviews, they realized that those Viet Cong — who earlier was portrayed as a communist subhuman beasts — after all were human beings sincerely fighting for a noble cause. One of McNamara’s men — after reading the report — said, “we are fighting on the wrong side.”
 
 “Human Development” is a tough and complex subject. The ‘World Bank’ and the policymakers in Washington DC often sit on their desks and dictate what ‘third world’ countries need without looking into their history, culture, religion, climate, geography, and heritage.
 Here I end by this wonderful poem by Ross Coggins.
 
-**The Development Set**
+**The Development Set**<br>
 *by Ross Coggins*
 
 Excuse me, friends, I must catch my jet<br>
