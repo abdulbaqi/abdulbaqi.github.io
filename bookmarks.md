@@ -42,6 +42,12 @@ For icons use [iconfinder](https://www.iconfinder.com)
 Here is an awsome series of [YouTube](https://www.youtube.com/watch?v=QKWnkIPur2Q) tutorial on AI. 
 
 <hr>
+# Engineering of Consent
+
+Great BBC Documentary titled "The Century of the Self"
+[YouTube](https://www.youtube.com/watch?v=eJ3RzGoQC4s&list=WL&index=2)
+
+<hr>
 # Philosophy
 
 In this [Article](https://albertmohler.com/2015/12/07/relativity-moral-relativism-and-the-modern-age) we see the effect of Einstein theory on moral relativism. 
