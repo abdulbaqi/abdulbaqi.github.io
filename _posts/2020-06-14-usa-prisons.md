@@ -8,7 +8,7 @@ share-img: /img/race-2.jpg
 tags: WhiteSupermacy
 ---
 
-Lots has been said and written about racialism in America these days. Joining the folks, I started to watch some documentaries and movies on the theme and thought give an assorted list here for others. 
+Lots has been said and written about racialism in America these days. Joining the folks, I started to watch some documentaries and movies on the theme and thought to jot down an assorted list for others to benefit from. This is just my random pick and in no way it intends to be exhaustive. 
 
 "13th" (2016) is a documentary tells the story of prisons in USA. 13th amendment abolishes the slavery, but places a clause that excludes those who are criminals. That gave an excuse to find every small opportunity to make a Negro criminal, and hence the prison industrial complex. 
 
@@ -22,7 +22,9 @@ Talking about sending the innocent to the jail, don't forget the excellent inves
 
 "Imperial Dreams" (2014) demonstrates the prison culture in America and the flawed system that spoils the life of a black once he entered behind bars. No decent job, no vote, no driving license, no nothing. Yet you blame them to do drugs. It is natural, stupid!
 
-The above should not signal that all whites in America are racists. Not all all. The fact that millions of white folks went to the streets in support of George Floyd and Black Lives Matter is a testimony that there are still lots of courageous and noble white Americans out there. Watch for example, "Same Kind of different as me" (2017) and enjoy the kind heart of the white women Deborah towards the homeless. 
+"LA 92" (2017) documents horrible footages from the riots in Los Angeles in the aftermath of brutal beating of Rodney King. Despite the beating was captured in video, yet the jury declared not guilty. That sparked in riots, killing, looting and burning of LA in late April 1992. The scenes are apocalyptic. The problem is that police never take lessons and we are there again in 2020. 
+
+The above should not implicate that all whites in America are racists. Not all all. The fact that millions of white folks went to the streets in support of George Floyd and Black Lives Matter is a testimony that there are still lots of courageous and noble white Americans out there. Watch for example, "Same Kind of different as me" (2017) and enjoy the kind heart of the white women Deborah towards the homeless. 
 
 For you to check who are the culprits that fuels the white supremacists, I can suggest few documentaries.
 
