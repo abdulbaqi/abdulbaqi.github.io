@@ -54,7 +54,7 @@ It is interesting to note that colonial Western powers themselves promoted the r
 
 Another facet of the same plot is the promotion of secular and religious schools in Muslim countries. So a group of Muslim boys and girls would learn secular Western sciences but know very shallow and distorted snippets here and there about Islam. On the other hand, send another group of Muslim boys and girls to religious school that teaches Quran, Hadith -also distorted- such that these boys and girls do not know physics, chemistry, English and even grow a skeptical view towards those who know them. This kind of schism between the two classes has created our modern Muslim societies. The secular educated rule their country and occupy the leading positions, while the religious group tends to supervise cultural rituals like leading the prayer, conducting marriages and other religious ceremonies, sacrificing animals during religious festivals, and so on. This religious group is usually financially dependent on the secular group, and hence they think twice before criticizing the secular group for any actions that deviate from religious teachings. 
 
-#Conclusion 
+## Conclusion 
 
 With increased awareness, openness, and interconnected world, I hope this schism between the secular and religious communities in the Muslim world is narrowing. COVID19 just came to show the atheists that science has its limits, and that science is not a new God that knows everything and can solve everything. Science and Technology by itself are agnostic of any value or ethical or ideological system. It is the elders who control science and technology add such value system to science and technology. The elders who control the West are modernists and promote atheism. 
 
