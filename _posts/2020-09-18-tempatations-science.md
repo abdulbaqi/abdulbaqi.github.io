@@ -15,7 +15,7 @@ Such advancements pushed the border of our seen world further and further. A per
 
 In this article, I am going to discuss two of such temptations of modern science. I will discuss it from the point of view of Islam but could fit other religions as well. I will broadly call these two trials as over-veneration and over-rejection.
 
-#Over-Veneration
+## Over-Veneration
 
 Science and technology today mesmerizes us by its wonders and perfection. Unfortunately, because the scientific revolution started in the West under the principles of the Enlightenment, an overarching element in this whole drama is atheism, materialism, and preference of reason over spirituality. 
 
@@ -32,7 +32,7 @@ This has created a great temptation for the laymen among the adherents of religi
 Many Muslim boys and girls enrolled in the Western educational institutes and got hypnotized by the western civilization and came back to their Muslim countries promoting the good, bad, and the ugly without much scrutinizing. 
 
 
-#Over-Rejection
+## Over-Rejection
 
 On the other extreme, we have peoples of religion being suspicious of anything and everything produced by enlightened atheists, and wholesale rejecting all products of the West. 
 
