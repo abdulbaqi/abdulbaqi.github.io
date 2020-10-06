@@ -3,8 +3,8 @@ layout: post
 title: Exploring Quran Dataset on Kaggle
 subtitle: first steps using Table of datascience package
 bigimg: /img/code.jpeg
-image: img/kaba.jpg
-share-img: img/kaba.jpg
+image: /img/kaba.jpg
+share-img: /img/kaba.jpg
 tags: python technology data quran datascience
 ---
 In this Tutorial, I am going to experiment with the `Table` class under the `Datascience` module for some exploratory analysis of the Quran. Let us get started.
