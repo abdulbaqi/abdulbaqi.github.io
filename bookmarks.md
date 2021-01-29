@@ -6,16 +6,9 @@ subtitle: Knowledge is a valuable hunt, so capture it with bookmark
 
 This page is evolving all the time. It is a reference for me, but no harm to make it public in case anything here interests you. This contains assorted list of bookmarks which I wanted to keep them saved for later use. 
 
-<hr>
+# Adobe Illustrator
 
-# Development Effectiveness
-
-IFAD [website](https://www.ifad.org/en/development-effectiveness) has good introduction on the subject. 
-
-IFC has their [AIMM](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/development+impact/areas+of+work/sa_aimm) system for Impact monitoring. 
-
-
-<hr>
+Here is an awsome series of [YouTube](https://www.youtube.com/watch?v=QKWnkIPur2Q) tutorial on AI. 
 
 # Design
 
@@ -37,27 +30,31 @@ For free images see [freeimages](https://www.freeimages.com), also [pixels](http
 
 For icons use [iconfinder](https://www.iconfinder.com)
 
-### Adobe Illustrator
+# Development Effectiveness
 
-Here is an awsome series of [YouTube](https://www.youtube.com/watch?v=QKWnkIPur2Q) tutorial on AI. 
+IFAD [website](https://www.ifad.org/en/development-effectiveness) has good introduction on the subject. 
 
-<hr>
+IFC has their [AIMM](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/development+impact/areas+of+work/sa_aimm) system for Impact monitoring. 
+
+# Documentaries
+
+Social Dilemma on Netflix describes the ugly face of Artificial Intelligence when it is at the hands of bad guys. 
+
 # Engineering of Consent
 
 Great BBC Documentary titled "The Century of the Self"
 [YouTube](https://www.youtube.com/watch?v=eJ3RzGoQC4s&list=WL&index=2)
 
-<hr>
+# numerical miracles of the Quran
+[Rashad Khalifa](https://www.youtube.com/watch?v=mhmoxuJygBk) explains his findings. 
+
+[examples](https://www.youtube.com/watch?v=N6EznaEmWoU&feature=youtu.be) of some the mathematical miracles. 
+
 # Philosophy
 
 In this [Article](https://albertmohler.com/2015/12/07/relativity-moral-relativism-and-the-modern-age) we see the effect of Einstein theory on moral relativism. 
 
-<hr>
 # Quran
 
-A good [search](https://furqan.co/) site to investigate books of tafsir and others Quranic sciences in Arabic. 
+A good [search](https://tafsir.app/) site to investigate books of tafsir and others Quranic sciences in Arabic. 
 
-## numerical miracles
-[Rashad Khalifa](https://www.youtube.com/watch?v=mhmoxuJygBk) explains his findings. 
-
-[examples](https://www.youtube.com/watch?v=N6EznaEmWoU&feature=youtu.be) of some the mathematical miracles. 
