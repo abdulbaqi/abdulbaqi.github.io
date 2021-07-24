@@ -22,6 +22,8 @@ For fonts check [fontsquirrel](https://www.fontsquirrel.com)
 
 Some good fonts to consider are: Roboto, Lust, Alex, Robot Slab, 
 
+Another good source of free fonts are [here](https://www.websiteplanet.com/blog/best-free-fonts/)
+
 Google search: `typekit font pairing` to see the good combinations of body (sans serif) and heading (serif).
 
 To generate paragraphs of a given word count, you can always use [lipsem](https://www.lipsum.com/).
