@@ -34,7 +34,7 @@ server {
 ```
 and the wsgi initial file at `~/myproject/myproject.ini` was as follows:
 
-```python
+```linux
 [uwsgi]
 module = wsgi:app
 
@@ -54,7 +54,7 @@ The above settings did not work.
 I have made normal static files serving me from the root at `/var/www/abdulbaqi.site/html`, and 
 attempted naively to just change the nginx block by adding the subdirectory:
 
-```python
+```linux
 server {
         listen 80;
         listen [::]:80;
@@ -80,8 +80,10 @@ Then, I started to investigage the problem on tons of sites. [Some](https://stac
 
 It appeared to me that the solution lies in a good combination between the `.ini` file of UWSGI and the Nginx block description. There must be a `mount` and `callable` and `manage-script-name` in the uwsgi configuration. So, the variour was the [uwsgi](https://flask.palletsprojects.com/en/2.0.x/deploying/uwsgi/) page that was since 2010! But old is gold. I followed their suggestion and made the following configurations.
 
+```linux
+
 >> more baqiflask.ini 
-```python
+
 [uwsgi]
 mount = /quran=baqiflask:app 
 module = wsgi:app
@@ -97,9 +99,11 @@ vacuum = true
 die-on-term = true
 ```
 
+
+```linux
 >> more /etc/nginx/sites-available/abdulbaqi.site 
 
-```python
+
 server {
         listen 80;
         listen [::]:80;
@@ -121,4 +125,3 @@ server {
 ```
 
 I did not know that `@quran` is way to refer to the subdirectory in nginx url system.
-
