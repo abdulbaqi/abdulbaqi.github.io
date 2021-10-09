@@ -8,29 +8,29 @@ share-img: /img/books.jpg
 tags: dispute quran
 ---
 Let us get some guidance from the following three verses from Surah aal-Imran (23,24,25):
-```
-Have you not seen those who were given a portion of the Scriptures? Yet when they are invited to the Book of Allah to settle their disputes, some of them turn away heedlessly.
-This is because they say, “The Fire will not touch us except for a few days.” They have been deceived in their faith by their wishful lying.
-But how ˹horrible˺ will it be when We gather them together on the Day about which there is no doubt—when every soul will be paid in full for what it has done, and none will be wronged!
-```
+
+>Have you not seen those who were given a portion of the Scriptures? Yet when they are invited to the Book of Allah to settle their disputes, some of them turn away heedlessly.
+>This is because they say, “The Fire will not touch us except for a few days.” They have been deceived in their faith by their wishful lying.
+>But how ˹horrible˺ will it be when We gather them together on the Day about which there is no doubt—when every soul will be paid in full for what it has done, and none will be wronged!
+
 First let us talk about those who are given only portion of the scriptures.
 
 The scriptures have contents that are needed to be taken in full and with firmness. They are not to be taken lightly or partially. Allah says in three locations in the Quran (2:63, 2:93, 7:171) 
-```
-Hold firmly to that ˹Scripture˺ which We have given you. 
-```
+
+>Hold firmly to that ˹Scripture˺ which We have given you. 
+
 In another place (86:13-14) Allah described the Quran as:
 
-```
-“Surely this ˹Quran˺ is a decisive word, and is not to be taken lightly.”.
-```
+
+>“Surely this ˹Quran˺ is a decisive word, and is not to be taken lightly.”.
+
 The problem is when we as Muslims follow the footsteps of the previous nations and take this Quran lightly or take only portion of the scripture. We accept some verses because they align with our desires and yet shy away from other verses and try to hide them. We like verses that has soft tones and hate verses that implicates sacrifice and hardship. We want the honey but do not want to be stung by bees!
 
 Allah says in Surah al-Hijr verse 91: 
 
-```
-˹a warning˺ similar to what We sent to those who divided ˹the Scriptures˺, who ˹now˺ accept parts of the Quran, rejecting others.
-```
+
+>˹a warning˺ similar to what We sent to those who divided ˹the Scriptures˺, who ˹now˺ accept parts of the Quran, rejecting others.
+
 
 And because those who have shallow knowledge of the Quran, and who do not take the Quran fully and took it only partially will have little exposure to the Quran. And because they have little exposure of the Quran, they will reach partial solution and will not have skills to link up all verses of the Quran. For that reason, their treatment of a matter will very likely be incomplete and wrong. 
 
@@ -46,13 +46,13 @@ To the many crimes they added yet another crime of passing judgement on behalf o
 
 Allah has mentions degrees of crimes and went from lighter crime to greater in a list of 4 items as follows (7:33):
 
-```
-Say, "My Lord has only forbidden:
-1)	 immoralities - what is apparent of them and what is concealed - and 
-2)	sin,1 and oppression without right, 
-3)	and that you associate with Allah that for which He has not sent down authority, 
-4)	and that you say about Allah that which you do not know."
-```
+
+>Say, "My Lord has only forbidden:
+>1)	 immoralities - what is apparent of them and what is concealed - and 
+>2)	sin,1 and oppression without right, 
+>3)	and that you associate with Allah that for which He has not sent down authority, 
+>4)	and that you say about Allah that which you do not know."
+
 
 The worst of crimes – even worse that Shirk (associating deity with Allah) – is to pass opinions about Allah without knowledge. 
 
