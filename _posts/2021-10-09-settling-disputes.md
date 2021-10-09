@@ -54,6 +54,6 @@ Allah has mentions degrees of crimes and went from lighter crime to greater in a
 >4)	and that you say about Allah that which you do not know."
 
 
-The worst of crimes – even worse that Shirk (associating deity with Allah) – is to pass opinions about Allah without knowledge. 
+The worst of crimes – even worse than Shirk (associating deity with Allah) – is to pass opinions about Allah without knowledge. 
 
 For such people who took His words lightly, Allah has prepared special punishment. Allah will treat them with the opposite of what they have expected. They expected a treatment of a forgiving dad to his naughty son. What they got is a wrath from Allah and a justice. 
