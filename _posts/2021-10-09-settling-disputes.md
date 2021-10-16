@@ -5,13 +5,13 @@ subtitle:
 bigimg: /img/books.jpg
 image: /img/scale-sq.jpg
 share-img: /img/books.jpg
-tags: dispute quran
+tags: dispute quran tafsir aal-imran
 ---
 Let us get some guidance from the following three verses from Surah aal-Imran (23,24,25):
 
->Have you not seen those who were given a portion of the Scriptures? Yet when they are invited to the Book of Allah to settle their disputes, some of them turn away heedlessly.
+>**Have you not seen those who were given a portion of the Scriptures? Yet when they are invited to the Book of Allah to settle their disputes, some of them turn away heedlessly.
 >This is because they say, “The Fire will not touch us except for a few days.” They have been deceived in their faith by their wishful lying.
->But how ˹horrible˺ will it be when We gather them together on the Day about which there is no doubt—when every soul will be paid in full for what it has done, and none will be wronged!
+>But how ˹horrible˺ will it be when We gather them together on the Day about which there is no doubt—when every soul will be paid in full for what it has done, and none will be wronged!**
 
 First let us talk about those who are given only portion of the scriptures.
 
