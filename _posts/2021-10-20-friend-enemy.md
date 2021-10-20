@@ -14,13 +14,13 @@ Let us stay under the shades of the following verse from Sura aal-Imran
 
 Muslims should not expose the secrets of Muslims to their enemies. If a Muslims betrays his fellow Muslims and exposes the secrets of Muslims, then he automatically gets out of the circle of Islam. Moreover, Allah declares that He has lifted his shelter from any Muslim who does that. That means in this only-two-club system, Allah is with the Muslims and when a Muslim betrays his fellow Muslims then he is not only leaving the camp of Muslims, actually he is leaving the camp of Allah as well. Allah will not extend his shelter and protection to him. Let the nonbelievers protect him. Let them give him Noble Prize or Knighthood or any other honorary, but these are just temporary worldly honorariums. 
 
-#this verse coming after the earlier two verses on Allah’s power
+# this verse coming after the earlier two verses on Allah’s power
 
-This verse in Aal-Imran came after two verses describing the power, majesty and dominion of Allah. These two verses described the supreme qualities that only Allah possess. Hence, following those two verses today’s verse on not taking nonbelievers as friends and helper fits very well. 
+This verse in Aal-Imran came after two verses describing the power, majesty and dominion of Allah. These two verses described the supreme qualities that only Allah possess. Hence, our verse today coming after these earlier verses fits very well. How can a sensible person after knowing the dominion and power of Allah still wants to join the club of anti-Allah!
 
-#it is okey to behave and say good to others
+# it is okey to behave and say good to others
 
-We need to distinguish between the heart love and hatred and the just treatment. A Muslim son or daughter must continue to behalf with his nonbeliever parents with just and mercy. He should speak politely with his parents and relatives. However he should not dissolve his identity and compromise on matters of religion no matter how close or dear a person is. 
+We need to distinguish between love which is a matter of inner heart feeling and the just treatment and the polite words. A Muslim son or daughter must continue to behave with his nonbeliever parents with just and mercy. He should speak politely with his parents and relatives. However he should not dissolve his identity and compromise on matters of religion no matter how close or dear a person is. 
 
 >But if they (i.e., parents) pressure you to associate with Me what you have no knowledge of, do not obey them. Still keep their company in this world courteously, and follow the way of those who turn to Me ˹in devotion˺. Then to Me you will ˹all˺ return, and then I will inform you of what you used to do. [Quran 31:15]
 
@@ -30,13 +30,13 @@ A Muslim is never asked to behave rude with a peaceful non-Muslim society which 
 >Allah only forbids you from befriending those who have fought you for ˹your˺ faith, driven you out of your homes, or supported ˹others˺ in doing so. And whoever takes them as friends, then it is they who are the ˹true˺ wrongdoers. [Quran 60:8,9]
 
 
-The companion Abu ad-Darda’ said that when we visited lands of the nonbelievers we apparently smiled on the surface while our hearts used to curse them. Ibn Abbas said, the the taqiyyah (i.e., concealing the hatred while speaking politely) is not what you act and do, it is only by tongue.
+The companion Abu ad-Darda’ said that when we visited lands of the nonbelievers we apparently smiled on the surface while our hearts used to curse them. Ibn Abbas said, the the taqiyyah (i.e., concealing the hatred while speaking politely) is not what you act and do, it is what you utter by your tongue.
 
-#Why we should not love by heart the nonbelievers?
+# Why we should not love by heart the nonbelievers?
 
-We have seen in verses preceding this verse that gives hint why we should not take nonbelievers as allies and friends. When they are asked to take the Quran as a guiding book and a judge they turn away. 
+We have seen in verses preceding this verse one reason why we should not take as allies the nonbelievers. When they are asked to take the Quran as a guiding book and a judge they turn away. It would be a crime then to join the club of those who turn away from Quran deliberately and consider as source of guidance books of other philosophers or scholars. 
 
-#punishments for taking nonbelievers as allies
+# punishments for taking nonbelievers as allies
 
 The greatest punishment of taking nonbelievers as allies is that Allah lifts his protection and makes it a pretext for humiliation and punishment. Here are a list of verses in this regard without comments.
 
@@ -56,18 +56,18 @@ So reading Quranic verses here are the consequence of taking nonbelievers as all
 2.	Allah gets a solid proof against them [4:144]
 3.	They become a member of their camp [5:51]
 4.	They are the wrongdoers or unjust (Dhalim) [ 5:51]
-5.	 They are strayed from the right way. [60:1]
+5.	They are strayed from the right way. [60:1]
 6.	Taking nonbelievers as allies cause great religious persecution on earth [8:73]
 7.	Taking nonbelievers as allies causes huge corruption on earth [8:73]
 8.	They will lose honor and pride and will stay perpetually at the bottom of nations [4:139]
 
-#reward for not taking nonbelievers as allies
+# reward for not taking nonbelievers as allies
 
-Those who stay on path and albeit all temptations stick to the camp of believers, surely he will get great rewards, which could be the opposite of the 8 punishment mentioned above for those who leave Muslims and join the camp of the nonbelievers. Here is a motivating verse:
+Those who stay on path and albeit all temptations stick to the camp of believers surely will get great rewards. These reward as just the opposite of the 8 punishments mentioned above. Here is a motivating verse:
 
 >You will never find a people who ˹truly˺ believe in Allah and the Last Day loyal to those who defy Allah and His Messenger, even if they were their parents, children, siblings, or extended family. For those ˹believers˺, Allah has instilled faith in their hearts and strengthened them with a spirit from Him. He will admit them into Gardens under which rivers flow, to stay there forever. Allah is pleased with them and they are pleased with Him. They are the party of Allah. Indeed, Allah’s party is bound to succeed. [58:22]
 
-So here is a listing of rewards from just one verse above:
+So here is a listing of rewards for those who stay in the camp of Allah:
 
 1.	Allah instaills faith in their heart
 2.	Strengthens them with a spirit from Him (i.e., angel Gabriel will be with him)
@@ -77,6 +77,6 @@ So here is a listing of rewards from just one verse above:
 6.	They are the party of Allah
 7.	They are the successful 
 
-#Allah knows what the heart conceals
+# Allah knows what the heart conceals
 
-Since there are cases when a person can speak politely and act diplomatically with nonbeliever Allah tells us in this verse that what matters in what conceals in the heart and nobody has access to these intensions except that person and Allah. It is sufficient that Allah knows about what the hearts conceal for a person to fear him all the time, and especially in matters related to the matter of loving fellow believers no matter their race or color and hating the nonbelievers no matter how they are close to us. 
+Since there are cases when a person can speak politely and act diplomatically with nonbeliever Allah tells us in this verse that what matters is what one conceals in the heart and nobody has access to these intensions except that very person and Allah. It is sufficient that Allah knows about what the heart conceals. 
