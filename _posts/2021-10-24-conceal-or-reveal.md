@@ -6,7 +6,7 @@ bigimg: /img/universe.jpg
 image: /img/universe-sq.jpg
 share-img: /img/universe.jpg
 tags: tafsir aal-imran knowledge
-excerpt: Say, “Whether you hide what is within your **chests** or disclose it, Allah knows it.” For He knows whatever is in the heavens and whatever is in the earth, for Allah is All-Powerful over everything
+excerpt: Say, “Whether you hide what is within your chests or disclose it, Allah knows it.” For He knows whatever is in the heavens and whatever is in the earth, for Allah is All-Powerful over everything
 ---
 
 Today we will talk about verse 29 of Surah Aal-Imran:
