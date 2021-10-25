@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Allah knows whether if you conceal or reveal
+title: Allah knows whether you conceal or reveal
 subtitle:
 bigimg: /img/universe.jpg
 image: /img/universe-sq.jpg
@@ -27,7 +27,7 @@ So, let us check the difference between the heart and chest as Quran uses these 
 
 **Sadr** or chest is used 44 times with various derivations in the Quran. 
 
-** qalb** or the hear on the other hand was used in 132 times again with various derivation of the word.
+**qalb** or the hear on the other hand was used in 132 times again with various derivation of the word.
 
 That means Heart is much more important a topic than chest.
 
