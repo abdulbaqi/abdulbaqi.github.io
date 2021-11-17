@@ -22,7 +22,7 @@ If you connect the previous verse with this verse, you would notice that in the 
 
 When the supplication is sincere, the answer comes like a bullet, immediately with a “fa”. 
 
-the dua is accepted and accepted very fast. That is why it starts with the letter “Fa” which means “right afterwards”
+Just ponder on the power of this dua. The dua was so powerful that Allah arranged a prophet to be the guradian and mentor of a little girl.
 
 # Acceptance of Dua
 
