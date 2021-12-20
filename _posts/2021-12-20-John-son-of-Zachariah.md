@@ -11,13 +11,13 @@ excerpt: “My Lord! Grant me—by your grace—righteous offspring. You are cer
 
 Today we will spend time with the following four verses (38-41) of Surah aal-Imran. 
 
->** Then and there Zachariah prayed to his Lord, saying, “My Lord! Grant me—by your grace—righteous offspring. You are certainly the Hearer of ˹all˺ prayers.”
+>Then and there Zachariah prayed to his Lord, saying, “My Lord! Grant me—by your grace—righteous offspring. You are certainly the Hearer of ˹all˺ prayers.”
 
 >So the angels called out to him while he stood praying in the sanctuary, “Allah gives you good news of ˹the birth of˺ John who will confirm the Word of Allah and will be a great leader, chaste, and a prophet among the righteous.”
 
 >Zachariah exclaimed, “My Lord! How can I have a son when I am very old and my wife is barren?” He replied, “So will it be. Allah does what He wills.”
 
->Zachariah said, “My Lord! Grant me a sign.” He said, “Your sign is that you will not ˹be able to˺ speak to people for three days except through gestures. Remember your Lord often and glorify ˹Him˺ morning and evening.” **
+>Zachariah said, “My Lord! Grant me a sign.” He said, “Your sign is that you will not ˹be able to˺ speak to people for three days except through gestures. Remember your Lord often and glorify ˹Him˺ morning and evening.”
 
 # the art of dua
 We saw in previous verses that Zachariah witnessed first-hand the power and generosity of Allah.  He saw that Allah could bring Mary the fruits of winter in the middle of summer. A Lord who can make impossible possible, can grant him child in old age from a barren wife. So, Zachariah thought it would be the right time to ask this Lord to grant him a son. How could one expect a child from a wife well passed the menopause? It was impossible from our material sense, but nevertheless, Zachariah decided to give it a try. 
