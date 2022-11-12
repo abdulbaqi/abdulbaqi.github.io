@@ -28,14 +28,14 @@ Bretton Wood organizations triumph when there are food crisis and people dying. 
 How true was Ross Coggins - an USAid employee - when he described this mentality in his poem titled “The Development Set” in 1976
 
 > We discuss malnutrition over steaks
-> And plan hunger talks during coffee breaks.
-> Whether Asian floods or African drought,
-> We face each issue with open mouth.
+And plan hunger talks during coffee breaks.
+Whether Asian floods or African drought,
+We face each issue with open mouth.
 >
 > We bring in consultants whose circumlocution
-> Raises difficulties for every solution –
-> Thus guaranteeing continued good eating
-> By showing the need for another meeting.
+Raises difficulties for every solution –
+Thus guaranteeing continued good eating
+By showing the need for another meeting.
 
 Modern world can benefit a lot from the story of Prophet Yusuf (Joseph) to approach the current food crisis. He first predicted the onslaught of a crisis well in advance. That brings the knowledge and predictive power. Joseph’s predictive power lies in his spirituality. So, the first lesson to the World leaders is to leave secularism and respect religion if they want to tap into helpful predictive powers. Predictive analytics based on AI, Machine Learning and Statistics can leverage on past examples, but can never tap into novel problems that has no history. In such areas, the knowledge and prophecies of people of spirituality has no rival.
 
