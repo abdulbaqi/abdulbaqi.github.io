@@ -5,7 +5,7 @@ subtitle: Assorted thoughts on history and religion of this city
 bigimg: /img/jerusalem.jpg
 image: /img/jerusalem-square.jpg
 share-img: /img/jerusalem-square.jpg
-tags: Jerusalem history
+tags: Jerusalem Israel Zionism Palestine history
 excerpt: 
 ---
 
