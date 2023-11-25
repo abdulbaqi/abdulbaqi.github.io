@@ -6,7 +6,7 @@ bigimg: /img/tank.jpg
 image: /img/netanyahu-sq2.jpg
 share-img: /img/netanyahu.jpg
 tags: Israel Palestine Zionism
-excerpt: 
+excerpt: Amidst the sadness, I must thank you. Thank you for aligning the Muslim nation under one banner. Thank you for causing millions of Muslims to turn to the Quran and read the prophecies therein. 
 ---
 
 ## Mr. Netanyahu! 
@@ -79,7 +79,7 @@ I leave the rest to Allah, and sit back - with a bucket of popcorn - and watch t
 
 Shalome! 
 
+### watch it on YouTube
+
 [![Watch the video](https://img.youtube.com/vi/r29H0XFVk4Y/hqdefault.jpg)](https://www.youtube.com/embed/r29H0XFVk4Y)
 
-[<img src="https://img.youtube.com/vi/r29H0XFVk4Y/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/r29H0XFVk4Y)
