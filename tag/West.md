@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: islam"
-tag: islam
+title: "Tag: West"
+tag: West
 robots: noindex
 ---
